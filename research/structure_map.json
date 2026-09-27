@@ -1,0 +1,1284 @@
+{
+  "reconstructed": [
+    {
+      "index": 0,
+      "label": "Title / Front matter",
+      "type": "front",
+      "start_note": 1,
+      "start": 0,
+      "end": 70
+    },
+    {
+      "index": 1,
+      "label": "I",
+      "type": "protocol",
+      "start_note": 4,
+      "start": 70,
+      "end": 11363
+    },
+    {
+      "index": 2,
+      "label": "II",
+      "type": "protocol",
+      "start_note": 267,
+      "start": 11363,
+      "end": 16617
+    },
+    {
+      "index": 3,
+      "label": "III",
+      "type": "protocol",
+      "start_note": 359,
+      "start": 16617,
+      "end": 24624
+    },
+    {
+      "index": 4,
+      "label": "IV",
+      "type": "protocol",
+      "start_note": 572,
+      "start": 24624,
+      "end": 36169
+    },
+    {
+      "index": 5,
+      "label": "V",
+      "type": "protocol",
+      "start_note": 843,
+      "start": 36169,
+      "end": 38200
+    },
+    {
+      "index": 6,
+      "label": "VI",
+      "type": "protocol",
+      "start_note": 906,
+      "start": 38200,
+      "end": 40312
+    },
+    {
+      "index": 7,
+      "label": "VII",
+      "type": "protocol",
+      "start_note": 944,
+      "start": 40312,
+      "end": 44611
+    },
+    {
+      "index": 8,
+      "label": "VIII",
+      "type": "protocol",
+      "start_note": 1052,
+      "start": 44611,
+      "end": 49558
+    },
+    {
+      "index": 9,
+      "label": "IX",
+      "type": "protocol",
+      "start_note": 1210,
+      "start": 49558,
+      "end": 57104
+    },
+    {
+      "index": 10,
+      "label": "X",
+      "type": "protocol",
+      "start_note": 1472,
+      "start": 57104,
+      "end": 65917
+    },
+    {
+      "index": 11,
+      "label": "XI",
+      "type": "protocol",
+      "start_note": 1752,
+      "start": 65917,
+      "end": 69595
+    },
+    {
+      "index": 12,
+      "label": "XII",
+      "type": "protocol",
+      "start_note": 1859,
+      "start": 69595,
+      "end": 75056
+    },
+    {
+      "index": 13,
+      "label": "XIII",
+      "type": "protocol",
+      "start_note": 2046,
+      "start": 75056,
+      "end": 78376
+    },
+    {
+      "index": 14,
+      "label": "XIV",
+      "type": "protocol",
+      "start_note": 2137,
+      "start": 78376,
+      "end": 79506
+    },
+    {
+      "index": 15,
+      "label": "XV",
+      "type": "protocol",
+      "start_note": 2165,
+      "start": 79506,
+      "end": 86304
+    },
+    {
+      "index": 16,
+      "label": "XVI",
+      "type": "protocol",
+      "start_note": 2389,
+      "start": 86304,
+      "end": 90341
+    },
+    {
+      "index": 17,
+      "label": "XVII",
+      "type": "protocol",
+      "start_note": 2501,
+      "start": 90341,
+      "end": 94339
+    },
+    {
+      "index": 18,
+      "label": "XVIII",
+      "type": "protocol",
+      "start_note": 2638,
+      "start": 94339,
+      "end": 97102
+    },
+    {
+      "index": 19,
+      "label": "XIX",
+      "type": "protocol",
+      "start_note": 2740,
+      "start": 97102,
+      "end": 108200
+    },
+    {
+      "index": 20,
+      "label": "XX",
+      "type": "protocol",
+      "start_note": 3023,
+      "start": 108200,
+      "end": 112321
+    },
+    {
+      "index": 21,
+      "label": "XXI",
+      "type": "protocol",
+      "start_note": 3140,
+      "start": 112321,
+      "end": 115926
+    },
+    {
+      "index": 22,
+      "label": "XXII",
+      "type": "protocol",
+      "start_note": 3256,
+      "start": 115926,
+      "end": 117452
+    },
+    {
+      "index": 23,
+      "label": "Translator’s Note",
+      "type": "paratext",
+      "subtype": "translator-note",
+      "start_note": 3309,
+      "start": 117452,
+      "end": 125801
+    }
+  ],
+  "K": [
+    {
+      "index": 0,
+      "label": "Title / Front matter",
+      "type": "front",
+      "start_note": 1,
+      "start": 0,
+      "end": 70
+    },
+    {
+      "index": 1,
+      "label": "I",
+      "type": "protocol",
+      "start_note": 4,
+      "start": 70,
+      "end": 11363
+    },
+    {
+      "index": 2,
+      "label": "II",
+      "type": "protocol",
+      "start_note": 267,
+      "start": 11363,
+      "end": 16617
+    },
+    {
+      "index": 3,
+      "label": "III",
+      "type": "protocol",
+      "start_note": 359,
+      "start": 16617,
+      "end": 24624
+    },
+    {
+      "index": 4,
+      "label": "IV",
+      "type": "protocol",
+      "start_note": 572,
+      "start": 24624,
+      "end": 36169
+    },
+    {
+      "index": 5,
+      "label": "V",
+      "type": "protocol",
+      "start_note": 843,
+      "start": 36169,
+      "end": 38200
+    },
+    {
+      "index": 6,
+      "label": "VI",
+      "type": "protocol",
+      "start_note": 906,
+      "start": 38200,
+      "end": 40312
+    },
+    {
+      "index": 7,
+      "label": "VII",
+      "type": "protocol",
+      "start_note": 944,
+      "start": 40312,
+      "end": 44611
+    },
+    {
+      "index": 8,
+      "label": "VIII",
+      "type": "protocol",
+      "start_note": 1052,
+      "start": 44611,
+      "end": 49558
+    },
+    {
+      "index": 9,
+      "label": "IX",
+      "type": "protocol",
+      "start_note": 1210,
+      "start": 49558,
+      "end": 57104
+    },
+    {
+      "index": 10,
+      "label": "X",
+      "type": "protocol",
+      "start_note": 1472,
+      "start": 57104,
+      "end": 65917
+    },
+    {
+      "index": 11,
+      "label": "XI",
+      "type": "protocol",
+      "start_note": 1752,
+      "start": 65917,
+      "end": 69595
+    },
+    {
+      "index": 12,
+      "label": "XII",
+      "type": "protocol",
+      "start_note": 1859,
+      "start": 69595,
+      "end": 75056
+    },
+    {
+      "index": 13,
+      "label": "XIII",
+      "type": "protocol",
+      "start_note": 2046,
+      "start": 75056,
+      "end": 78376
+    },
+    {
+      "index": 14,
+      "label": "XIV",
+      "type": "protocol",
+      "start_note": 2137,
+      "start": 78376,
+      "end": 79506
+    },
+    {
+      "index": 15,
+      "label": "XV",
+      "type": "protocol",
+      "start_note": 2165,
+      "start": 79506,
+      "end": 86304
+    },
+    {
+      "index": 16,
+      "label": "XVI",
+      "type": "protocol",
+      "start_note": 2389,
+      "start": 86304,
+      "end": 90341
+    },
+    {
+      "index": 17,
+      "label": "XVII",
+      "type": "protocol",
+      "start_note": 2501,
+      "start": 90341,
+      "end": 94339
+    },
+    {
+      "index": 18,
+      "label": "XVIII",
+      "type": "protocol",
+      "start_note": 2638,
+      "start": 94339,
+      "end": 97102
+    },
+    {
+      "index": 19,
+      "label": "XIX",
+      "type": "protocol",
+      "start_note": 2740,
+      "start": 97102,
+      "end": 108200
+    },
+    {
+      "index": 20,
+      "label": "XX",
+      "type": "protocol",
+      "start_note": 3023,
+      "start": 108200,
+      "end": 112321
+    },
+    {
+      "index": 21,
+      "label": "XXI",
+      "type": "protocol",
+      "start_note": 3140,
+      "start": 112321,
+      "end": 115926
+    },
+    {
+      "index": 22,
+      "label": "XXII",
+      "type": "protocol",
+      "start_note": 3256,
+      "start": 115926,
+      "end": 117452
+    },
+    {
+      "index": 23,
+      "label": "Translator’s Note",
+      "type": "paratext",
+      "subtype": "translator-note",
+      "start_note": 3309,
+      "start": 117452,
+      "end": 125801
+    }
+  ],
+  "A1": [
+    {
+      "index": 0,
+      "label": "Title / Front matter",
+      "type": "front",
+      "start_note": 1,
+      "start": 0,
+      "end": 70
+    },
+    {
+      "index": 1,
+      "label": "I",
+      "type": "protocol",
+      "start_note": 4,
+      "start": 70,
+      "end": 11363
+    },
+    {
+      "index": 2,
+      "label": "II",
+      "type": "protocol",
+      "start_note": 267,
+      "start": 11363,
+      "end": 13461
+    },
+    {
+      "index": 3,
+      "label": "III",
+      "type": "protocol",
+      "start_note": 294,
+      "start": 13461,
+      "end": 16617
+    },
+    {
+      "index": 4,
+      "label": "IV",
+      "type": "protocol",
+      "start_note": 359,
+      "start": 16617,
+      "end": 24624
+    },
+    {
+      "index": 5,
+      "label": "V",
+      "type": "protocol",
+      "start_note": 572,
+      "start": 24624,
+      "end": 26756
+    },
+    {
+      "index": 6,
+      "label": "VI",
+      "type": "protocol",
+      "start_note": 634,
+      "start": 26756,
+      "end": 32879
+    },
+    {
+      "index": 7,
+      "label": "VII",
+      "type": "protocol",
+      "start_note": 786,
+      "start": 32879,
+      "end": 36169
+    },
+    {
+      "index": 8,
+      "label": "VIII",
+      "type": "protocol",
+      "start_note": 843,
+      "start": 36169,
+      "end": 38200
+    },
+    {
+      "index": 9,
+      "label": "IX",
+      "type": "protocol",
+      "start_note": 906,
+      "start": 38200,
+      "end": 40312
+    },
+    {
+      "index": 10,
+      "label": "X",
+      "type": "protocol",
+      "start_note": 944,
+      "start": 40312,
+      "end": 44611
+    },
+    {
+      "index": 11,
+      "label": "XI",
+      "type": "protocol",
+      "start_note": 1052,
+      "start": 44611,
+      "end": 47519
+    },
+    {
+      "index": 12,
+      "label": "XII",
+      "type": "protocol",
+      "start_note": 1156,
+      "start": 47519,
+      "end": 54646
+    },
+    {
+      "index": 13,
+      "label": "XIII",
+      "type": "protocol",
+      "start_note": 1375,
+      "start": 54646,
+      "end": 57104
+    },
+    {
+      "index": 14,
+      "label": "XIV",
+      "type": "protocol",
+      "start_note": 1472,
+      "start": 57104,
+      "end": 65917
+    },
+    {
+      "index": 15,
+      "label": "XV",
+      "type": "protocol",
+      "start_note": 1752,
+      "start": 65917,
+      "end": 69595
+    },
+    {
+      "index": 16,
+      "label": "XVI",
+      "type": "protocol",
+      "start_note": 1859,
+      "start": 69595,
+      "end": 71870
+    },
+    {
+      "index": 17,
+      "label": "XVII",
+      "type": "protocol",
+      "start_note": 1939,
+      "start": 71870,
+      "end": 78376
+    },
+    {
+      "index": 18,
+      "label": "XVIII",
+      "type": "protocol",
+      "start_note": 2137,
+      "start": 78376,
+      "end": 79506
+    },
+    {
+      "index": 19,
+      "label": "XIX",
+      "type": "protocol",
+      "start_note": 2165,
+      "start": 79506,
+      "end": 86304
+    },
+    {
+      "index": 20,
+      "label": "XX",
+      "type": "protocol",
+      "start_note": 2389,
+      "start": 86304,
+      "end": 90341
+    },
+    {
+      "index": 21,
+      "label": "XXI",
+      "type": "protocol",
+      "start_note": 2501,
+      "start": 90341,
+      "end": 94339
+    },
+    {
+      "index": 22,
+      "label": "XXII",
+      "type": "protocol",
+      "start_note": 2638,
+      "start": 94339,
+      "end": 97102
+    },
+    {
+      "index": 23,
+      "label": "XXIII",
+      "type": "protocol",
+      "start_note": 2740,
+      "start": 97102,
+      "end": 108200
+    },
+    {
+      "index": 24,
+      "label": "XXIV",
+      "type": "protocol",
+      "start_note": 3023,
+      "start": 108200,
+      "end": 112321
+    },
+    {
+      "index": 25,
+      "label": "XXV",
+      "type": "protocol",
+      "start_note": 3140,
+      "start": 112321,
+      "end": 114015
+    },
+    {
+      "index": 26,
+      "label": "XXVI",
+      "type": "protocol",
+      "start_note": 3196,
+      "start": 114015,
+      "end": 115926
+    },
+    {
+      "index": 27,
+      "label": "XXVII",
+      "type": "protocol",
+      "start_note": 3256,
+      "start": 115926,
+      "end": 117452
+    },
+    {
+      "index": 28,
+      "label": "Translator’s Note",
+      "type": "paratext",
+      "subtype": "translator-note",
+      "start_note": 3309,
+      "start": 117452,
+      "end": 125801
+    }
+  ],
+  "B": [
+    {
+      "index": 0,
+      "label": "Title / Front matter",
+      "type": "front",
+      "start_note": 1,
+      "start": 0,
+      "end": 70
+    },
+    {
+      "index": 1,
+      "label": "I",
+      "type": "protocol",
+      "start_note": 4,
+      "start": 70,
+      "end": 11363
+    },
+    {
+      "index": 2,
+      "label": "II",
+      "type": "protocol",
+      "start_note": 267,
+      "start": 11363,
+      "end": 13461
+    },
+    {
+      "index": 3,
+      "label": "III",
+      "type": "protocol",
+      "start_note": 294,
+      "start": 13461,
+      "end": 16617
+    },
+    {
+      "index": 4,
+      "label": "IV",
+      "type": "protocol",
+      "start_note": 359,
+      "start": 16617,
+      "end": 24624
+    },
+    {
+      "index": 5,
+      "label": "V",
+      "type": "protocol",
+      "start_note": 572,
+      "start": 24624,
+      "end": 26756
+    },
+    {
+      "index": 6,
+      "label": "VI",
+      "type": "protocol",
+      "start_note": 634,
+      "start": 26756,
+      "end": 32879
+    },
+    {
+      "index": 7,
+      "label": "VII",
+      "type": "protocol",
+      "start_note": 786,
+      "start": 32879,
+      "end": 36169
+    },
+    {
+      "index": 8,
+      "label": "VIII",
+      "type": "protocol",
+      "start_note": 843,
+      "start": 36169,
+      "end": 38200
+    },
+    {
+      "index": 9,
+      "label": "IX",
+      "type": "protocol",
+      "start_note": 906,
+      "start": 38200,
+      "end": 40312
+    },
+    {
+      "index": 10,
+      "label": "X",
+      "type": "protocol",
+      "start_note": 944,
+      "start": 40312,
+      "end": 44611
+    },
+    {
+      "index": 11,
+      "label": "XI",
+      "type": "protocol",
+      "start_note": 1052,
+      "start": 44611,
+      "end": 47519
+    },
+    {
+      "index": 12,
+      "label": "XII",
+      "type": "protocol",
+      "start_note": 1156,
+      "start": 47519,
+      "end": 54646
+    },
+    {
+      "index": 13,
+      "label": "XIII",
+      "type": "protocol",
+      "start_note": 1375,
+      "start": 54646,
+      "end": 57104
+    },
+    {
+      "index": 14,
+      "label": "XIV",
+      "type": "protocol",
+      "start_note": 1472,
+      "start": 57104,
+      "end": 65917
+    },
+    {
+      "index": 15,
+      "label": "XV",
+      "type": "protocol",
+      "start_note": 1752,
+      "start": 65917,
+      "end": 69595
+    },
+    {
+      "index": 16,
+      "label": "XVI",
+      "type": "protocol",
+      "start_note": 1859,
+      "start": 69595,
+      "end": 71870
+    },
+    {
+      "index": 17,
+      "label": "XVII",
+      "type": "protocol",
+      "start_note": 1939,
+      "start": 71870,
+      "end": 78376
+    },
+    {
+      "index": 18,
+      "label": "XVIII",
+      "type": "protocol",
+      "start_note": 2137,
+      "start": 78376,
+      "end": 79506
+    },
+    {
+      "index": 19,
+      "label": "XIX",
+      "type": "protocol",
+      "start_note": 2165,
+      "start": 79506,
+      "end": 86304
+    },
+    {
+      "index": 20,
+      "label": "XX",
+      "type": "protocol",
+      "start_note": 2389,
+      "start": 86304,
+      "end": 90341
+    },
+    {
+      "index": 21,
+      "label": "XXI",
+      "type": "protocol",
+      "start_note": 2501,
+      "start": 90341,
+      "end": 94339
+    },
+    {
+      "index": 22,
+      "label": "XXII",
+      "type": "protocol",
+      "start_note": 2638,
+      "start": 94339,
+      "end": 97102
+    },
+    {
+      "index": 23,
+      "label": "XXIII",
+      "type": "protocol",
+      "start_note": 2740,
+      "start": 97102,
+      "end": 108200
+    },
+    {
+      "index": 24,
+      "label": "XXIV",
+      "type": "protocol",
+      "start_note": 3023,
+      "start": 108200,
+      "end": 112321
+    },
+    {
+      "index": 25,
+      "label": "XXV",
+      "type": "protocol",
+      "start_note": 3140,
+      "start": 112321,
+      "end": 114015
+    },
+    {
+      "index": 26,
+      "label": "XXVI",
+      "type": "protocol",
+      "start_note": 3196,
+      "start": 114015,
+      "end": 115926
+    },
+    {
+      "index": 27,
+      "label": "XXVII",
+      "type": "protocol",
+      "start_note": 3256,
+      "start": 115926,
+      "end": 117452
+    },
+    {
+      "index": 28,
+      "label": "Translator’s Note",
+      "type": "paratext",
+      "subtype": "translator-note",
+      "start_note": 3309,
+      "start": 117452,
+      "end": 125801
+    }
+  ],
+  "A2": [
+    {
+      "index": 0,
+      "label": "Title / Front matter",
+      "type": "front",
+      "start_note": 1,
+      "start": 0,
+      "end": 70
+    },
+    {
+      "index": 1,
+      "label": "I",
+      "type": "protocol",
+      "start_note": 4,
+      "start": 70,
+      "end": 11363
+    },
+    {
+      "index": 2,
+      "label": "II",
+      "type": "protocol",
+      "start_note": 267,
+      "start": 11363,
+      "end": 16617
+    },
+    {
+      "index": 3,
+      "label": "III",
+      "type": "protocol",
+      "start_note": 359,
+      "start": 16617,
+      "end": 24624
+    },
+    {
+      "index": 4,
+      "label": "IV",
+      "type": "protocol",
+      "start_note": 572,
+      "start": 24624,
+      "end": 26756
+    },
+    {
+      "index": 5,
+      "label": "V",
+      "type": "protocol",
+      "start_note": 634,
+      "start": 26756,
+      "end": 32879
+    },
+    {
+      "index": 6,
+      "label": "VI",
+      "type": "protocol",
+      "start_note": 786,
+      "start": 32879,
+      "end": 36169
+    },
+    {
+      "index": 7,
+      "label": "VII",
+      "type": "protocol",
+      "start_note": 843,
+      "start": 36169,
+      "end": 38200
+    },
+    {
+      "index": 8,
+      "label": "VIII",
+      "type": "protocol",
+      "start_note": 906,
+      "start": 38200,
+      "end": 40312
+    },
+    {
+      "index": 9,
+      "label": "IX",
+      "type": "protocol",
+      "start_note": 944,
+      "start": 40312,
+      "end": 44611
+    },
+    {
+      "index": 10,
+      "label": "X",
+      "type": "protocol",
+      "start_note": 1052,
+      "start": 44611,
+      "end": 54458
+    },
+    {
+      "index": 11,
+      "label": "XI",
+      "type": "protocol",
+      "start_note": 1372,
+      "start": 54458,
+      "end": 57104
+    },
+    {
+      "index": 12,
+      "label": "XII",
+      "type": "protocol",
+      "start_note": 1472,
+      "start": 57104,
+      "end": 65917
+    },
+    {
+      "index": 13,
+      "label": "XIII",
+      "type": "protocol",
+      "start_note": 1752,
+      "start": 65917,
+      "end": 68943
+    },
+    {
+      "index": 14,
+      "label": "XIV",
+      "type": "protocol",
+      "start_note": 1839,
+      "start": 68943,
+      "end": 71870
+    },
+    {
+      "index": 15,
+      "label": "XV",
+      "type": "protocol",
+      "start_note": 1939,
+      "start": 71870,
+      "end": 86304
+    },
+    {
+      "index": 16,
+      "label": "XVI",
+      "type": "protocol",
+      "start_note": 2389,
+      "start": 86304,
+      "end": 90341
+    },
+    {
+      "index": 17,
+      "label": "XVII",
+      "type": "protocol",
+      "start_note": 2501,
+      "start": 90341,
+      "end": 94339
+    },
+    {
+      "index": 18,
+      "label": "XVIII",
+      "type": "protocol",
+      "start_note": 2638,
+      "start": 94339,
+      "end": 96356
+    },
+    {
+      "index": 19,
+      "label": "XIX",
+      "type": "protocol",
+      "start_note": 2713,
+      "start": 96356,
+      "end": 97102
+    },
+    {
+      "index": 20,
+      "label": "XX",
+      "type": "protocol",
+      "start_note": 2740,
+      "start": 97102,
+      "end": 108200
+    },
+    {
+      "index": 21,
+      "label": "XXI",
+      "type": "protocol",
+      "start_note": 3023,
+      "start": 108200,
+      "end": 112321
+    },
+    {
+      "index": 22,
+      "label": "XXII",
+      "type": "protocol",
+      "start_note": 3140,
+      "start": 112321,
+      "end": 114015
+    },
+    {
+      "index": 23,
+      "label": "XXIII",
+      "type": "protocol",
+      "start_note": 3196,
+      "start": 114015,
+      "end": 115926
+    },
+    {
+      "index": 24,
+      "label": "XXIV",
+      "type": "protocol",
+      "start_note": 3256,
+      "start": 115926,
+      "end": 117452
+    },
+    {
+      "index": 25,
+      "label": "Translator’s Note",
+      "type": "paratext",
+      "subtype": "translator-note",
+      "start_note": 3309,
+      "start": 117452,
+      "end": 125801
+    }
+  ],
+  "N": [
+    {
+      "index": 0,
+      "label": "Title / Front matter",
+      "type": "front",
+      "start_note": 1,
+      "start": 0,
+      "end": 70
+    },
+    {
+      "index": 1,
+      "label": "I",
+      "type": "protocol",
+      "start_note": 4,
+      "start": 70,
+      "end": 11363
+    },
+    {
+      "index": 2,
+      "label": "II",
+      "type": "protocol",
+      "start_note": 267,
+      "start": 11363,
+      "end": 16617
+    },
+    {
+      "index": 3,
+      "label": "III",
+      "type": "protocol",
+      "start_note": 359,
+      "start": 16617,
+      "end": 24624
+    },
+    {
+      "index": 4,
+      "label": "IV",
+      "type": "protocol",
+      "start_note": 572,
+      "start": 24624,
+      "end": 26756
+    },
+    {
+      "index": 5,
+      "label": "V",
+      "type": "protocol",
+      "start_note": 634,
+      "start": 26756,
+      "end": 32879
+    },
+    {
+      "index": 6,
+      "label": "VI",
+      "type": "protocol",
+      "start_note": 786,
+      "start": 32879,
+      "end": 36169
+    },
+    {
+      "index": 7,
+      "label": "VII",
+      "type": "protocol",
+      "start_note": 843,
+      "start": 36169,
+      "end": 38200
+    },
+    {
+      "index": 8,
+      "label": "VIII",
+      "type": "protocol",
+      "start_note": 906,
+      "start": 38200,
+      "end": 40312
+    },
+    {
+      "index": 9,
+      "label": "IX",
+      "type": "protocol",
+      "start_note": 944,
+      "start": 40312,
+      "end": 44611
+    },
+    {
+      "index": 10,
+      "label": "X",
+      "type": "protocol",
+      "start_note": 1052,
+      "start": 44611,
+      "end": 54458
+    },
+    {
+      "index": 11,
+      "label": "XI",
+      "type": "protocol",
+      "start_note": 1372,
+      "start": 54458,
+      "end": 57104
+    },
+    {
+      "index": 12,
+      "label": "XII",
+      "type": "protocol",
+      "start_note": 1472,
+      "start": 57104,
+      "end": 65917
+    },
+    {
+      "index": 13,
+      "label": "XIII",
+      "type": "protocol",
+      "start_note": 1752,
+      "start": 65917,
+      "end": 68943
+    },
+    {
+      "index": 14,
+      "label": "XIV",
+      "type": "protocol",
+      "start_note": 1839,
+      "start": 68943,
+      "end": 71870
+    },
+    {
+      "index": 15,
+      "label": "XV",
+      "type": "protocol",
+      "start_note": 1939,
+      "start": 71870,
+      "end": 86304
+    },
+    {
+      "index": 16,
+      "label": "XVI",
+      "type": "protocol",
+      "start_note": 2389,
+      "start": 86304,
+      "end": 90341
+    },
+    {
+      "index": 17,
+      "label": "XVII",
+      "type": "protocol",
+      "start_note": 2501,
+      "start": 90341,
+      "end": 94339
+    },
+    {
+      "index": 18,
+      "label": "XVIII",
+      "type": "protocol",
+      "start_note": 2638,
+      "start": 94339,
+      "end": 96356
+    },
+    {
+      "index": 19,
+      "label": "XIX",
+      "type": "protocol",
+      "start_note": 2713,
+      "start": 96356,
+      "end": 97102
+    },
+    {
+      "index": 20,
+      "label": "XX",
+      "type": "protocol",
+      "start_note": 2740,
+      "start": 97102,
+      "end": 108200
+    },
+    {
+      "index": 21,
+      "label": "XXI",
+      "type": "protocol",
+      "start_note": 3023,
+      "start": 108200,
+      "end": 112321
+    },
+    {
+      "index": 22,
+      "label": "XXII",
+      "type": "protocol",
+      "start_note": 3140,
+      "start": 112321,
+      "end": 114015
+    },
+    {
+      "index": 23,
+      "label": "XXIII",
+      "type": "protocol",
+      "start_note": 3196,
+      "start": 114015,
+      "end": 115926
+    },
+    {
+      "index": 24,
+      "label": "XXIV",
+      "type": "protocol",
+      "start_note": 3256,
+      "start": 115926,
+      "end": 117452
+    },
+    {
+      "index": 25,
+      "label": "Translator’s Note",
+      "type": "paratext",
+      "subtype": "translator-note",
+      "start_note": 3309,
+      "start": 117452,
+      "end": 125801
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "ner": {
+    "version": "v7",
+    "method": "Fresh corpus-wide hybrid NER: expanded scholarly authority lists + longest-surface matching; overlap resolution by longest match. Concepts are indexed separately and are not treated as named entities.",
+    "entity_counts": {
+      "persons": 19,
+      "places": 20,
+      "organizations": 6,
+      "works": 12
+    },
+    "occurrences": 664,
+    "by_witness": {
+      "reconstructed": 103,
+      "K": 101,
+      "A1": 101,
+      "A2": 121,
+      "N": 128,
+      "B": 110
+    },
+    "by_type": {
+      "persons": 237,
+      "places": 163,
+      "organizations": 202,
+      "works": 62
+    }
+  },
+  "landscape_units": 22,
+  "anatomy_sections": {
+    "reconstructed": 24,
+    "K": 24,
+    "A1": 29,
+    "A2": 26,
+    "N": 26,
+    "B": 29
+  },
+  "concepts": 19,
+  "tei_ner_annotations": 664
+}

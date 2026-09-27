@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="witness-register">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Witness register</title>
+        <respStmt>
+          <resp>Digital reconstruction, TEI encoding, and witness collation</resp>
+          <name xml:id="digital-editor">University research project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Internal scholarly research edition.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Witness metadata and hypothetical textual stages described by De Michelis.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>TEI P5 package. Reconstructed reference text and witness-specific reconstructions are encoded separately; critical apparatus remains traceable to De Michelis note numbers. Witness organization is not normalized to a single protocol numbering.</p>
+      <refsDecl>
+        <p>Apparatus locations use anchors with xml:id note-N in the reconstructed text; witness readings point to witnesses.xml.</p>
+      </refsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ru">Russian</language>
+        <language ident="en">English metadata</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-09-27">Release 1.0: consolidated GitHub Pages research package.</change>
+      <change when="2026-09-27">v5: all former scope-review cases adjudicated; nested apparatus syntax resolved; witness structures and paratext encoded; authority registers linked.</change>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listWit>
+      <witness xml:id="K">
+        <abbr>K</abbr>
+        <date>1903</date>
+        <note type="segmentation">22</note>
+        <note type="redaction">first redaction</note>
+        <desc>Znamja / Kruševan; earliest full witness and De Michelis’s base witness.</desc>
+      </witness>
+      <witness xml:id="A1">
+        <abbr>A1</abbr>
+        <date>1905</date>
+        <note type="segmentation">27</note>
+        <note type="redaction">X</note>
+        <desc>Anonymous St Petersburg edition; 27-part redaction.</desc>
+      </witness>
+      <witness xml:id="B">
+        <abbr>B</abbr>
+        <date>1905–1906</date>
+        <note type="segmentation">27</note>
+        <note type="redaction">X</note>
+        <desc>Butmi edition; 27-part redaction, related to A1 but independently modified.</desc>
+      </witness>
+      <witness xml:id="A2">
+        <abbr>A2</abbr>
+        <date>1905</date>
+        <note type="segmentation">24</note>
+        <note type="redaction">Y</note>
+        <desc>Anonymous Moscow edition; 24-part redaction.</desc>
+      </witness>
+      <witness xml:id="N">
+        <abbr>N</abbr>
+        <date>1905</date>
+        <note type="segmentation">24</note>
+        <note type="redaction">Y</note>
+        <desc>Nilus edition; 24-part redaction and later influential vulgate.</desc>
+      </witness>
+      <witness xml:id="R">
+        <abbr>R</abbr>
+        <date>1905–1906</date>
+        <note type="segmentation">single discourse</note>
+        <note type="redaction">short redaction</note>
+        <desc>Short redaction R1–R4; not reconstructed as a continuous witness here.</desc>
+      </witness>
+      <witness xml:id="I">
+        <abbr>I</abbr>
+        <date>1917</date>
+        <note type="segmentation">extract anthology</note>
+        <note type="redaction">short redaction</note>
+        <desc>Late extract dependent on N; not reconstructed continuously here.</desc>
+      </witness>
+      <witness xml:id="W" type="hypothetical">
+        <abbr>W</abbr>
+        <date>unknown</date>
+        <note type="segmentation">-</note>
+        <note type="redaction">hypothetical</note>
+        <desc>Hypothetical common textual stage reconstructed by De Michelis.</desc>
+      </witness>
+      <witness xml:id="Z" type="hypothetical">
+        <abbr>Z</abbr>
+        <date>before/around 1905</date>
+        <note type="segmentation">-</note>
+        <note type="redaction">hypothetical</note>
+        <desc>Hypothetical intermediate antigraph leading to X and Y.</desc>
+      </witness>
+      <witness xml:id="X" type="hypothetical">
+        <abbr>X</abbr>
+        <date>1905</date>
+        <note type="segmentation">27</note>
+        <note type="redaction">hypothetical redaction</note>
+        <desc>Reconstructed 27-part redaction underlying A1 and B.</desc>
+      </witness>
+      <witness xml:id="Y" type="hypothetical">
+        <abbr>Y</abbr>
+        <date>1905</date>
+        <note type="segmentation">24</note>
+        <note type="redaction">hypothetical redaction</note>
+        <desc>Reconstructed 24-part redaction underlying A2 and N.</desc>
+      </witness>
+    </listWit>
+  </standOff>
+</TEI>

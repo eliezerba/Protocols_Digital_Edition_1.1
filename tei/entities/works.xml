@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="authority-works">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Named entity authority: works</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Internal research edition; NER authority rerun in v7.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Authority entries derived from the reconstructed witness corpus and editorial review.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listBibl>
+        <bibl xml:id="bible">
+          <title>Bible</title>
+          <note>Surface forms: Библии, Библия</note>
+        </bibl>
+        <bibl xml:id="nehemiah">
+          <title>Book of Nehemiah</title>
+          <note>Surface forms: Неемии, Неемия</note>
+        </bibl>
+        <bibl xml:id="talmud">
+          <title>Talmud</title>
+          <note>Surface forms: талмудических, талмудистов, Талмуда, Талмуд</note>
+        </bibl>
+        <bibl xml:id="yebamot">
+          <title>Yevamot</title>
+          <note>Surface forms: Иебамот</note>
+        </bibl>
+        <bibl xml:id="ketubot">
+          <title>Ketubot</title>
+          <note>Surface forms: Катубот, Кетубот</note>
+        </bibl>
+        <bibl xml:id="sanhedrin">
+          <title>Sanhedrin</title>
+          <note>Surface forms: Санхедрин</note>
+        </bibl>
+        <bibl xml:id="kiddushin">
+          <title>Kiddushin</title>
+          <note>Surface forms: Кидушин, Кадушин</note>
+        </bibl>
+        <bibl xml:id="joly-dialogue">
+          <title>Maurice Joly, Dialogue aux enfers entre Machiavel et Montesquieu</title>
+          <note>Surface forms: </note>
+        </bibl>
+        <bibl xml:id="orach-chaim">
+          <title>Orach Chaim (as cited in the text)</title>
+          <note>Surface forms: Орах-Хамм, Орах-Хаим, Орах-Хайм</note>
+        </bibl>
+        <bibl xml:id="even-haezer">
+          <title>Even HaEzer (as cited in the text)</title>
+          <note>Surface forms: Эбен-Гаэзер, Эбен-Гайзер</note>
+        </bibl>
+        <bibl xml:id="aram-haim">
+          <title>“Aram-Haim” (citation as printed/reconstructed)</title>
+          <note>Surface forms: Арам-Хайм. Preserved as the reconstructed witness reads it; not silently normalized.</note>
+        </bibl>
+        <bibl xml:id="libre-parole">
+          <title>La Libre Parole</title>
+          <note>Surface forms: Libre Parole</note>
+        </bibl>
+      </listBibl>
+    </body>
+  </text>
+</TEI>

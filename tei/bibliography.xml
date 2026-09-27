@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bibliography">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bibliography</title>
+        <respStmt>
+          <resp>Digital reconstruction, TEI encoding, and witness collation</resp>
+          <name xml:id="digital-editor">University research project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Internal scholarly research edition.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Core sources for the edition.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>TEI P5 package. Reconstructed reference text and witness-specific reconstructions are encoded separately; critical apparatus remains traceable to De Michelis note numbers. Witness organization is not normalized to a single protocol numbering.</p>
+      <refsDecl>
+        <p>Apparatus locations use anchors with xml:id note-N in the reconstructed text; witness readings point to witnesses.xml.</p>
+      </refsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ru">Russian</language>
+        <language ident="en">English metadata</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-09-27">Release 1.0: consolidated GitHub Pages research package.</change>
+      <change when="2026-09-27">v5: all former scope-review cases adjudicated; nested apparatus syntax resolved; witness structures and paratext encoded; authority registers linked.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listBibl>
+        <bibl xml:id="demichelis2004">
+          <author>Cesare G. De Michelis</author>
+          <title>The Non-Existent Manuscript: A Study of the Protocols of the Sages of Zion</title>
+          <date>2004</date>
+          <publisher>University of Nebraska Press</publisher>
+        </bibl>
+        <bibl xml:id="joly1864">
+          <author>Maurice Joly</author>
+          <title>Dialogue aux enfers entre Machiavel et Montesquieu</title>
+          <date>1864</date>
+          <publisher>Brussels</publisher>
+        </bibl>
+      </listBibl>
+    </body>
+  </text>
+</TEI>

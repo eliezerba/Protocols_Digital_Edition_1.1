@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="textual-relations">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Textual transmission relations</title>
+        <respStmt>
+          <resp>Digital reconstruction, TEI encoding, and witness collation</resp>
+          <name xml:id="digital-editor">University research project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Internal scholarly research edition.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Graph relations abstracted from De Michelis’s Note on the Edition.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>TEI P5 package. Reconstructed reference text and witness-specific reconstructions are encoded separately; critical apparatus remains traceable to De Michelis note numbers. Witness organization is not normalized to a single protocol numbering.</p>
+      <refsDecl>
+        <p>Apparatus locations use anchors with xml:id note-N in the reconstructed text; witness readings point to witnesses.xml.</p>
+      </refsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ru">Russian</language>
+        <language ident="en">English metadata</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-09-27">Release 1.0: consolidated GitHub Pages research package.</change>
+      <change when="2026-09-27">v5: all former scope-review cases adjudicated; nested apparatus syntax resolved; witness structures and paratext encoded; authority registers linked.</change>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listRelation type="textual-transmission">
+      <relation name="descendsTo" active="witnesses.xml#W" passive="witnesses.xml#K">
+        <desc>W → K</desc>
+      </relation>
+      <relation name="descendsTo" active="witnesses.xml#W" passive="witnesses.xml#R">
+        <desc>W → R</desc>
+      </relation>
+      <relation name="descendsTo" active="witnesses.xml#W" passive="witnesses.xml#Z">
+        <desc>W → Z</desc>
+      </relation>
+      <relation name="descendsTo" active="witnesses.xml#Z" passive="witnesses.xml#X">
+        <desc>Z → X</desc>
+      </relation>
+      <relation name="descendsTo" active="witnesses.xml#X" passive="witnesses.xml#A1">
+        <desc>X → A1</desc>
+      </relation>
+      <relation name="descendsTo" active="witnesses.xml#X" passive="witnesses.xml#B">
+        <desc>X → B</desc>
+      </relation>
+      <relation name="descendsTo" active="witnesses.xml#Z" passive="witnesses.xml#Y">
+        <desc>Z → Y</desc>
+      </relation>
+      <relation name="descendsTo" active="witnesses.xml#Y" passive="witnesses.xml#A2">
+        <desc>Y → A2</desc>
+      </relation>
+      <relation name="descendsTo" active="witnesses.xml#Y" passive="witnesses.xml#N">
+        <desc>Y → N</desc>
+      </relation>
+      <relation name="sourceOf" active="witnesses.xml#N" passive="witnesses.xml#I">
+        <desc>I depends on N</desc>
+      </relation>
+      <relation name="contaminationPossible" active="witnesses.xml#B" passive="witnesses.xml#Y">
+        <desc>De Michelis identifies transversal readings/contamination; the stemmatic graph is not a closed tree.</desc>
+      </relation>
+    </listRelation>
+  </standOff>
+</TEI>

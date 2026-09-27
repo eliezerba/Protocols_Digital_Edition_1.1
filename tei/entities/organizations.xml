@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="authority-organizations">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Named entity authority: organizations</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Internal research edition; NER authority rerun in v7.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Authority entries derived from the reconstructed witness corpus and editorial review.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listOrg>
+        <org xml:id="zion">
+          <orgName>Zion (rhetorical collective in the text)</orgName>
+          <note>Surface forms: Сионские, Сионской, сионская, сионской, Сионом, Сиона, Сиону, Сион</note>
+        </org>
+        <org xml:id="freemasonry">
+          <orgName>Freemasonry / Masons</orgName>
+          <note>Surface forms: фран-масонские, франмасонские, франмасонов, масонского, масонские, масонским, масонских, масонской, масонства, масонство, масонов, масоны</note>
+        </org>
+        <org xml:id="rothschild">
+          <orgName>Rothschild family</orgName>
+          <note>Surface forms: Ротшильдов, Ротшильды</note>
+        </org>
+        <org xml:id="zion-chancellery">
+          <orgName>“Central Chancellery of Zion” (rhetorical institution in the text)</orgName>
+          <note>Surface forms: Сионской Главной Канцелярии, Сионская Главная Канцелярия, сионской главной канцеляри, сионская главная канцелярия</note>
+        </org>
+        <org xml:id="world-freemasons">
+          <orgName>World Alliance / Society of Freemasons (as named in titles)</orgName>
+          <note>Surface forms: всемирного союза Франмасонов, Всемирного общества Фран-Масонов, всемирного общества Фран-Масонов</note>
+        </org>
+        <org xml:id="world-zionists">
+          <orgName>World Union of Zionists (as named in the text)</orgName>
+          <note>Surface forms: всемирный союз сионистов, Всемирный союз сионистов</note>
+        </org>
+      </listOrg>
+    </body>
+  </text>
+</TEI>

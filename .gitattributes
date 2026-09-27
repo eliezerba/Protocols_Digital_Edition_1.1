@@ -1,0 +1,7 @@
+assets/data.js -diff
+research/editorial_decisions.csv diff=csv
+downloads/*.zip -diff
+*.xml text eol=lf
+*.md text eol=lf
+*.js text eol=lf
+*.css text eol=lf

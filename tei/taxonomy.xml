@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="taxonomy">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Editorial taxonomy</title>
+        <respStmt>
+          <resp>Digital reconstruction, TEI encoding, and witness collation</resp>
+          <name xml:id="digital-editor">University research project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Internal scholarly research edition.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Controlled vocabulary for variant and structural categories.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>TEI P5 package. Reconstructed reference text and witness-specific reconstructions are encoded separately; critical apparatus remains traceable to De Michelis note numbers. Witness organization is not normalized to a single protocol numbering.</p>
+      <refsDecl>
+        <p>Apparatus locations use anchors with xml:id note-N in the reconstructed text; witness readings point to witnesses.xml.</p>
+      </refsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ru">Russian</language>
+        <language ident="en">English metadata</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-09-27">Release 1.0: consolidated GitHub Pages research package.</change>
+      <change when="2026-09-27">v5: all former scope-review cases adjudicated; nested apparatus syntax resolved; witness structures and paratext encoded; authority registers linked.</change>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <taxonomy xml:id="variant-types">
+      <category xml:id="addition">
+        <catDesc>Addition</catDesc>
+      </category>
+      <category xml:id="omission">
+        <catDesc>Omission</catDesc>
+      </category>
+      <category xml:id="replacement">
+        <catDesc>Substitution / replacement</catDesc>
+      </category>
+      <category xml:id="segmentation">
+        <catDesc>Witness-specific segmentation</catDesc>
+      </category>
+      <category xml:id="normalization">
+        <catDesc>Linguistic normalization</catDesc>
+      </category>
+      <category xml:id="contamination">
+        <catDesc>Transversal/contaminated reading</catDesc>
+      </category>
+      <category xml:id="source-parallel">
+        <catDesc>Reading supported by Joly parallel</catDesc>
+      </category>
+    </taxonomy>
+  </standOff>
+</TEI>

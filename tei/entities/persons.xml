@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="authority-persons">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Named entity authority: persons</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Internal research edition; NER authority rerun in v7.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Authority entries derived from the reconstructed witness corpus and editorial review.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPerson>
+        <person xml:id="david">
+          <persName>David</persName>
+          <note>Surface forms: Давида, Давидова, Давид</note>
+        </person>
+        <person xml:id="solomon">
+          <persName>Solomon</persName>
+          <note>Surface forms: Соломоном, Соломона, Соломон</note>
+        </person>
+        <person xml:id="moses">
+          <persName>Moses</persName>
+          <note>Surface forms: Моисея, Моисей</note>
+        </person>
+        <person xml:id="carnot">
+          <persName>Sadi Carnot</persName>
+          <note>Surface forms: Карно</note>
+        </person>
+        <person xml:id="mckinley">
+          <persName>William McKinley</persName>
+          <note>Surface forms: Мак Кинлея, Мак-Кинлея, Мак Кинлей, Мак-Кинлей</note>
+        </person>
+        <person xml:id="gambetta">
+          <persName>Léon Gambetta</persName>
+          <note>Surface forms: Гамбеты, Гамбетта</note>
+        </person>
+        <person xml:id="faure">
+          <persName>Félix Faure</persName>
+          <note>Surface forms: Феликса Фора, Феликс Фор</note>
+        </person>
+        <person xml:id="sulla">
+          <persName>Sulla</persName>
+          <note>Surface forms: Силлы, Силла</note>
+        </person>
+        <person xml:id="pericles">
+          <persName>Pericles</persName>
+          <note>Surface forms: Перикла, Перикл</note>
+        </person>
+        <person xml:id="augustus">
+          <persName>Augustus</persName>
+          <note>Surface forms: Августа, Август</note>
+        </person>
+        <person xml:id="napoleon">
+          <persName>Napoleon</persName>
+          <note>Surface forms: Наполеона, Наполеон</note>
+        </person>
+        <person xml:id="charles-v">
+          <persName>Charles V</persName>
+          <note>Surface forms: Карла V</note>
+        </person>
+        <person xml:id="louis-xiv">
+          <persName>Louis XIV</persName>
+          <note>Surface forms: Людовика XIV</note>
+        </person>
+        <person xml:id="minin">
+          <persName>Kuzma Minin</persName>
+          <note>Surface forms: Минин</note>
+        </person>
+        <person xml:id="pozharsky">
+          <persName>Dmitry Pozharsky</persName>
+          <note>Surface forms: Князь Пожарский, Пожарский</note>
+        </person>
+        <person xml:id="vishnu">
+          <persName>Vishnu</persName>
+          <note>Surface forms: Вишну</note>
+        </person>
+        <person xml:id="montefiore">
+          <persName>Moses Montefiore</persName>
+          <note>Surface forms: Монте Фиоре, Монтефиоре</note>
+        </person>
+        <person xml:id="god">
+          <persName>God</persName>
+          <note>Surface forms: Божеским, Божеских, Божеской, Божества, Божьему, Божиих, Богом, Божии, Божий, Бога, Боге, Бог</note>
+        </person>
+        <person xml:id="bourgeois">
+          <persName>Léon Bourgeois</persName>
+          <note>Surface forms: Буржуа. Named in the text as “Буржуа”.</note>
+        </person>
+      </listPerson>
+    </body>
+  </text>
+</TEI>

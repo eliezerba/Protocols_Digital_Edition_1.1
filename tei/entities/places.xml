@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="authority-places">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Named entity authority: places</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Internal research edition; NER authority rerun in v7.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Authority entries derived from the reconstructed witness corpus and editorial review.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPlace>
+        <place xml:id="europe">
+          <placeName>Europe</placeName>
+          <location>
+            <geo>54.0 15.0</geo>
+          </location>
+          <note>Surface forms: Европе, Европы, Европу, Европой, Европа</note>
+        </place>
+        <place xml:id="paris">
+          <placeName>Paris</placeName>
+          <location>
+            <geo>48.8566 2.3522</geo>
+          </location>
+          <note>Surface forms: Париже, Париж</note>
+        </place>
+        <place xml:id="greece">
+          <placeName>Greece</placeName>
+          <location>
+            <geo>39.0742 21.8243</geo>
+          </location>
+          <note>Surface forms: Греции, Греция</note>
+        </place>
+        <place xml:id="italy">
+          <placeName>Italy</placeName>
+          <location>
+            <geo>41.8719 12.5674</geo>
+          </location>
+          <note>Surface forms: Италия, Италии</note>
+        </place>
+        <place xml:id="rome">
+          <placeName>Rome</placeName>
+          <location>
+            <geo>41.9028 12.4964</geo>
+          </location>
+          <note>Surface forms: Риме, Рим</note>
+        </place>
+        <place xml:id="madrid">
+          <placeName>Madrid</placeName>
+          <location>
+            <geo>40.4168 -3.7038</geo>
+          </location>
+          <note>Surface forms: Мадриде, Мадрид</note>
+        </place>
+        <place xml:id="london">
+          <placeName>London</placeName>
+          <location>
+            <geo>51.5074 -0.1278</geo>
+          </location>
+          <note>Surface forms: Лондоне, Лондон</note>
+        </place>
+        <place xml:id="berlin">
+          <placeName>Berlin</placeName>
+          <location>
+            <geo>52.52 13.405</geo>
+          </location>
+          <note>Surface forms: Берлине, Берлин</note>
+        </place>
+        <place xml:id="st-petersburg">
+          <placeName>St Petersburg</placeName>
+          <location>
+            <geo>59.9311 30.3609</geo>
+          </location>
+          <note>Surface forms: С.-Петербурге, Петербурге, Петербург</note>
+        </place>
+        <place xml:id="moscow">
+          <placeName>Moscow</placeName>
+          <location>
+            <geo>55.7558 37.6173</geo>
+          </location>
+          <note>Surface forms: Москву, Москва, Москве</note>
+        </place>
+        <place xml:id="kyiv">
+          <placeName>Kyiv</placeName>
+          <location>
+            <geo>50.4501 30.5234</geo>
+          </location>
+          <note>Surface forms: Киев, Киеве</note>
+        </place>
+        <place xml:id="odessa">
+          <placeName>Odessa</placeName>
+          <location>
+            <geo>46.4825 30.7233</geo>
+          </location>
+          <note>Surface forms: Одессу, Одесса, Одессе</note>
+        </place>
+        <place xml:id="jerusalem">
+          <placeName>Jerusalem</placeName>
+          <location>
+            <geo>31.7683 35.2137</geo>
+          </location>
+          <note>Surface forms: Иерусалима, Иерусалим</note>
+        </place>
+        <place xml:id="constantinople">
+          <placeName>Constantinople</placeName>
+          <location>
+            <geo>41.0082 28.9784</geo>
+          </location>
+          <note>Surface forms: Константинополь</note>
+        </place>
+        <place xml:id="france">
+          <placeName>France</placeName>
+          <location>
+            <geo>46.2276 2.2137</geo>
+          </location>
+          <note>Surface forms: Франциею, Франции, Франция</note>
+        </place>
+        <place xml:id="russia">
+          <placeName>Russia</placeName>
+          <location>
+            <geo>61.524 105.3188</geo>
+          </location>
+          <note>Surface forms: Россиею, России, Россия, Русь</note>
+        </place>
+        <place xml:id="turkey">
+          <placeName>Turkey</placeName>
+          <location>
+            <geo>38.9637 35.2433</geo>
+          </location>
+          <note>Surface forms: Турции, Турция</note>
+        </place>
+        <place xml:id="asia-minor">
+          <placeName>Asia Minor</placeName>
+          <location>
+            <geo>39.0 32.0</geo>
+          </location>
+          <note>Surface forms: Малой Азии, Малая Азия</note>
+        </place>
+        <place xml:id="england">
+          <placeName>England</placeName>
+          <location>
+            <geo>52.3555 -1.1743</geo>
+          </location>
+          <note>Surface forms: Англия, Англии</note>
+        </place>
+        <place xml:id="germany">
+          <placeName>Germany</placeName>
+          <location>
+            <geo>51.1657 10.4515</geo>
+          </location>
+          <note>Surface forms: Германия, Германии</note>
+        </place>
+      </listPlace>
+    </body>
+  </text>
+</TEI>

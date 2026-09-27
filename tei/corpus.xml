@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="protocols-corpus">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Protocols digital edition corpus</title>
+        <respStmt>
+          <resp>Digital reconstruction, TEI encoding, and witness collation</resp>
+          <name xml:id="digital-editor">University research project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Internal scholarly research edition.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Manifest for the edition, witnesses, relations, authorities and bibliography.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>TEI P5 package. Reconstructed reference text and witness-specific reconstructions are encoded separately; critical apparatus remains traceable to De Michelis note numbers. Witness organization is not normalized to a single protocol numbering.</p>
+      <refsDecl>
+        <p>Apparatus locations use anchors with xml:id note-N in the reconstructed text; witness readings point to witnesses.xml.</p>
+      </refsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ru">Russian</language>
+        <language ident="en">English metadata</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-09-27">Release 1.0: consolidated GitHub Pages research package.</change>
+      <change when="2026-09-27">v5: all former scope-review cases adjudicated; nested apparatus syntax resolved; witness structures and paratext encoded; authority registers linked.</change>
+    </revisionDesc>
+  </teiHeader>
+  <xi:include href="edition.xml" />
+  <xi:include href="witnesses.xml" />
+  <xi:include href="relations.xml" />
+  <xi:include href="bibliography.xml" />
+  <xi:include href="taxonomy.xml" />
+  <xi:include href="entities/persons.xml" />
+  <xi:include href="entities/places.xml" />
+  <xi:include href="entities/organizations.xml" />
+  <xi:include href="entities/works.xml" />
+  <xi:include href="witnesses/K.xml" />
+  <xi:include href="witnesses/A1.xml" />
+  <xi:include href="witnesses/A2.xml" />
+  <xi:include href="witnesses/N.xml" />
+  <xi:include href="witnesses/B.xml" />
+
+    <xi:include href="analysis/ner.xml" parse="xml"/>
+</teiCorpus>
