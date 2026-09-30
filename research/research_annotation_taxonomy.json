@@ -1,0 +1,101 @@
+{
+  "version": "research-tags-v1",
+  "tags": [
+    {
+      "id": "economic-discourse",
+      "label": "Economic discourse",
+      "group": "theme"
+    },
+    {
+      "id": "gold-standard",
+      "label": "Gold standard",
+      "group": "theme"
+    },
+    {
+      "id": "money-currency",
+      "label": "Money / currency",
+      "group": "theme"
+    },
+    {
+      "id": "credit-debt",
+      "label": "Credit / debt",
+      "group": "theme"
+    },
+    {
+      "id": "banks-capital",
+      "label": "Banks / capital",
+      "group": "theme"
+    },
+    {
+      "id": "landowners-agriculture",
+      "label": "Landowners / agriculture",
+      "group": "theme"
+    },
+    {
+      "id": "state-government",
+      "label": "State / government",
+      "group": "theme"
+    },
+    {
+      "id": "autocracy-dictatorship",
+      "label": "Autocracy / dictatorship",
+      "group": "theme"
+    },
+    {
+      "id": "liberalism",
+      "label": "Liberalism",
+      "group": "theme"
+    },
+    {
+      "id": "revolution",
+      "label": "Revolution",
+      "group": "theme"
+    },
+    {
+      "id": "press-public-opinion",
+      "label": "Press / public opinion",
+      "group": "theme"
+    },
+    {
+      "id": "utopian",
+      "label": "Utopian register",
+      "group": "narrative"
+    },
+    {
+      "id": "dystopian",
+      "label": "Dystopian register",
+      "group": "narrative"
+    },
+    {
+      "id": "editorial-voice",
+      "label": "Editorial voice",
+      "group": "textual"
+    },
+    {
+      "id": "possible-sharapov",
+      "label": "Possible Sharapov parallel",
+      "group": "hypothesis"
+    },
+    {
+      "id": "possible-boutmy",
+      "label": "Possible Boutmy layer",
+      "group": "hypothesis"
+    },
+    {
+      "id": "rhetorical-jew",
+      "label": "“The Jew” as rhetorical figure",
+      "group": "rhetorical"
+    },
+    {
+      "id": "composition-layer",
+      "label": "Possible compositional layer",
+      "group": "textual"
+    },
+    {
+      "id": "uncertain",
+      "label": "Uncertain",
+      "group": "status"
+    }
+  ],
+  "storage": "Browser localStorage; exportable as JSON or stand-off TEI."
+}

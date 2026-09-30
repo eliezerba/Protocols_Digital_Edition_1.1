@@ -1,0 +1,40 @@
+{
+  "version": "2.3",
+  "release": "2.1-provisional",
+  "canonical_format": "TEI P5",
+  "roles": {
+    "tei/edition.xml": "reconstruction.demichelis.legacy-migrated",
+    "tei/witnesses/K.xml": "witness.K.provisional-derived",
+    "tei/witnesses/A1.xml": "witness.A1.provisional-derived",
+    "tei/witnesses/A2.xml": "witness.A2.provisional-derived",
+    "tei/witnesses/N.xml": "witness.N.provisional-derived",
+    "tei/witnesses/B.xml": "witness.B.provisional-derived",
+    "tei/witnesses.xml": "authority.witnesses",
+    "tei/relations.xml": "hypothesis.transmission.demichelis",
+    "tei/analysis/ner.xml": "annotation.ner.provisional",
+    "research/editorial_decisions.csv": "audit.apparatus-reconstruction"
+  },
+  "planned_roles": [
+    "annotation.source-notes",
+    "annotation.source-parallels",
+    "annotation.alignments",
+    "hypothesis.transmission.sabrina",
+    "witness.*.documentary"
+  ],
+  "required_release_files": [
+    "docs/PROJECT_HISTORY_AND_DECISIONS.md",
+    "docs/release_notes_2.3.md",
+    "docs/HELP_CATALOG.json",
+    "docs/WITNESS_INGESTION_CONTRACT.md"
+  ],
+  "ingestion": {
+    "canonical": "TEI P5",
+    "accepted_incoming": [
+      "PAGE XML",
+      "ALTO XML",
+      "UTF-8 TXT",
+      "TEI P5"
+    ],
+    "alignment_stage": "after diplomatic TEI validation"
+  }
+}

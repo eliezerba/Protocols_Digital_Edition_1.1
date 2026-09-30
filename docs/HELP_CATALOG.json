@@ -1,0 +1,189 @@
+{
+  "edition": {
+    "title": "Edition / Close reading",
+    "status": "working",
+    "summary": "Close reading of the De Michelis reconstruction and provisional witness projections.",
+    "details": [
+      "Text selector switches between De Michelis and the provisional witness projections.",
+      "Structure uses each view’s own protocol divisions; canonical loci sit underneath and are witness-independent.",
+      "The right inspector separates textual structure, provisional K provenance, historical source notes, De Michelis apparatus, named entities, and researcher annotations.",
+      "The K/A1/A2/N/B texts are not documentary transcriptions. They are apparatus-derived scaffolding and must not be cited as if they were the printed witnesses."
+    ]
+  },
+  "anatomy": {
+    "title": "Protocol anatomy",
+    "status": "provisional",
+    "summary": "A navigation aid that divides a protocol into internal blocks.",
+    "details": [
+      "Where De Michelis marks Joly-source loci they may help delimit blocks; elsewhere neutral sentence groups are used.",
+      "This is not an interpretation of authorship or a claim about historical compositional layers.",
+      "The layer can be revised without changing canonical locus IDs."
+    ]
+  },
+  "provenance": {
+    "title": "K provenance",
+    "status": "provisional",
+    "summary": "Local comparison of the De Michelis reconstruction with the provisional K projection.",
+    "details": [
+      "K-attested means the aligned provisional K text agrees locally.",
+      "Supplied / not in K means De Michelis contains material absent from the temporary K projection.",
+      "Differs from K means both contain text but the readings differ.",
+      "This layer will be recalculated from the documentary Znamja transcription when that witness is ingested."
+    ]
+  },
+  "source-notes": {
+    "title": "Historical source notes",
+    "status": "working",
+    "summary": "Notes marked by historical asterisks that belong to the textual tradition rather than to De Michelis’s modern apparatus.",
+    "details": [
+      "The marker stays at its exact position in the running text.",
+      "The note body is stored separately and can be opened from the marker.",
+      "In the present De Michelis appendix two unambiguous historical asterisk notes were identified in Protocol II.",
+      "Documentary witnesses will later verify their exact wording and distribution."
+    ]
+  },
+  "apparatus": {
+    "title": "De Michelis critical apparatus",
+    "status": "working",
+    "summary": "Numbered notes recording readings and omissions across the editions used by De Michelis.",
+    "details": [
+      "This is preserved as scholarly evidence and provenance.",
+      "It is not the final project collation.",
+      "Once documentary witnesses are ingested, direct comparison of those witnesses will become primary and this apparatus will remain a reference layer."
+    ]
+  },
+  "entities": {
+    "title": "Named entities",
+    "status": "experimental",
+    "summary": "Indexed people, places, organizations, and works linked to occurrences in the current text views.",
+    "details": [
+      "The index is a research aid, not a definitive authority file.",
+      "Counts for provisional witnesses inherit the limitations of those apparatus-derived texts.",
+      "Entities will be recomputed for documentary transcriptions."
+    ]
+  },
+  "annotations": {
+    "title": "Research annotations",
+    "status": "working-local",
+    "summary": "Interpretive annotations created by the researcher and deliberately separated from transcription and apparatus.",
+    "details": [
+      "Annotations are stored locally in the browser until exported.",
+      "They may contain hypotheses such as economic discourse, editorial voice, or a possible Sharapov/Boutmy parallel.",
+      "They are not documentary facts and are not automatically committed to canonical TEI.",
+      "Use JSON or TEI export for preservation and review."
+    ]
+  },
+  "synopsis": {
+    "title": "Synopsis / Compare",
+    "status": "working-provisional-data",
+    "summary": "Configurable comparison across witness views using non-parallel structures.",
+    "details": [
+      "Choose an organizing witness/structure and reorder visible witnesses.",
+      "Differences are generated from the current text layers.",
+      "Because K/A1/A2/N/B are currently provisional apparatus-derived reconstructions, the synopsis is a tool-building preview rather than the final collation.",
+      "The interface is designed so documentary witnesses can replace the provisional layers without redesigning the synopsis."
+    ]
+  },
+  "tradition": {
+    "title": "Tradition / transmission model",
+    "status": "hypothesis",
+    "summary": "A visualization of textual relationships, not a settled stemma of the project.",
+    "details": [
+      "The current graph represents the De Michelis model as a working hypothesis.",
+      "The architecture supports additional, versioned transmission hypotheses, including a future model formulated by the research team.",
+      "Solid-looking graphical links should not be read as newly established historical facts."
+    ]
+  },
+  "search": {
+    "title": "Search",
+    "status": "working-provisional-data",
+    "summary": "Full-text search across the De Michelis reconstruction and current witness projections.",
+    "details": [
+      "Search results are linked back to close reading.",
+      "Witness-specific results currently reflect the provisional reconstructed witness text.",
+      "Search will automatically become more reliable when documentary transcriptions replace those projections."
+    ]
+  },
+  "index": {
+    "title": "Index",
+    "status": "experimental",
+    "summary": "Authority-style browser for people, places, organizations, and works.",
+    "details": [
+      "Each entry links to current occurrences.",
+      "Forms and counts may require correction as the corpus grows.",
+      "The index is designed to survive witness replacement because entity IDs are separate from witness text IDs."
+    ]
+  },
+  "distant": {
+    "title": "Distant reading",
+    "status": "experimental",
+    "summary": "Exploratory aggregate views: entity atlas, witness fingerprints, geography, co-occurrence, concepts, and variation density.",
+    "details": [
+      "These visualizations are exploratory research tools, not arguments or conclusions.",
+      "Any witness comparison is currently constrained by apparatus-derived witness projections.",
+      "The same views can later be recomputed from documentary witnesses without changing the interface."
+    ]
+  },
+  "loci": {
+    "title": "Canonical loci",
+    "status": "working-infrastructure",
+    "summary": "Stable witness-independent anchors used to connect non-parallel textual structures.",
+    "details": [
+      "A locus is not a protocol number.",
+      "Protocol divisions may differ across witnesses while the canonical locus identifier remains stable.",
+      "Current mappings are provisional and can be refined when documentary witnesses are aligned.",
+      "Stable locus IDs are the main mechanism that allows future witnesses to be inserted without rebuilding the system."
+    ]
+  },
+  "research": {
+    "title": "Research workspace",
+    "status": "working",
+    "summary": "Workspace for canonical loci and local-first interpretive annotations.",
+    "details": [
+      "Use the locus browser to inspect cross-witness structural mappings.",
+      "Use annotations for hypotheses and research notes, not for corrections to documentary transcription.",
+      "Repository-level persistence is not implemented yet; export annotations before moving browsers or clearing local data."
+    ]
+  },
+  "method": {
+    "title": "Method",
+    "status": "working",
+    "summary": "Editorial principles, architecture notes, downloads, and project documentation.",
+    "details": [
+      "This page should be the first place to check what is documentary, reconstructed, provisional, experimental, or planned.",
+      "Version 2.3 adds project history and witness-ingestion documentation as mandatory maintenance files."
+    ]
+  },
+  "tei": {
+    "title": "TEI downloads",
+    "status": "working-provisional-content",
+    "summary": "Downloadable TEI representing the current project data layers.",
+    "details": [
+      "TEI structure is designed for the target architecture.",
+      "Witness TEI files for K/A1/A2/N/B are currently provisional reconstructions, not diplomatic transcriptions.",
+      "Future documentary witness TEI will use the ingestion contract and stable locus layer."
+    ]
+  },
+  "ingestion": {
+    "title": "Future witness ingestion",
+    "status": "ready-for-files",
+    "summary": "Prepared import path for transcriptions produced outside the system, including eScriptorium exports.",
+    "details": [
+      "Preferred target inside the project is diplomatic TEI.",
+      "PAGE XML, ALTO XML, plain text, and direct TEI can enter through adapters.",
+      "Import and alignment are separate operations: first preserve the witness faithfully, then align it to canonical loci.",
+      "No real witness from the shared folders is ingested in version 2.3."
+    ]
+  },
+  "not-working": {
+    "title": "Functions not yet implemented",
+    "status": "planned",
+    "summary": "Known future functions are documented rather than silently appearing incomplete.",
+    "details": [
+      "Shared server-side persistence for research annotations is not implemented.",
+      "Documentary witness scans/transcriptions have not yet been ingested.",
+      "Final witness collation and a project-specific transmission hypothesis are not yet implemented.",
+      "The current entity/concept/distant-reading results should be regenerated when documentary texts arrive."
+    ]
+  }
+}

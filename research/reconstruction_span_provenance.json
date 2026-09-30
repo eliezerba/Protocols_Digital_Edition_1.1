@@ -1,0 +1,3617 @@
+{
+  "method": "Token-level alignment of corrected De Michelis reconstruction against provisional continuous K derived from De Michelis apparatus. This is provenance for the temporary system, not a documentary collation of Znamja.",
+  "units": {
+    "0": {
+      "spans": [
+        {
+          "start": 1,
+          "end": 28,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 3,
+        "supplemented-not-in-k": 0,
+        "differs-from-k": 0
+      },
+      "percent": {
+        "k-attested": 100.0,
+        "supplemented-not-in-k": 0.0,
+        "differs-from-k": 0.0
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "1": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 125,
+          "status": "k-attested"
+        },
+        {
+          "start": 127,
+          "end": 139,
+          "status": "differs-from-k",
+          "k_text": "постараемся формулировать"
+        },
+        {
+          "start": 140,
+          "end": 184,
+          "status": "k-attested"
+        },
+        {
+          "start": 185,
+          "end": 186,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 187,
+          "end": 1775,
+          "status": "k-attested"
+        },
+        {
+          "start": 1776,
+          "end": 1788,
+          "status": "differs-from-k",
+          "k_text": "междоусобищи"
+        },
+        {
+          "start": 1790,
+          "end": 2362,
+          "status": "k-attested"
+        },
+        {
+          "start": 2363,
+          "end": 2366,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 2367,
+          "end": 3351,
+          "status": "k-attested"
+        },
+        {
+          "start": 3352,
+          "end": 3366,
+          "status": "differs-from-k",
+          "k_text": "сказанного"
+        },
+        {
+          "start": 3367,
+          "end": 5123,
+          "status": "k-attested"
+        },
+        {
+          "start": 5125,
+          "end": 5139,
+          "status": "differs-from-k",
+          "k_text": "неусточивость"
+        },
+        {
+          "start": 5141,
+          "end": 5928,
+          "status": "k-attested"
+        },
+        {
+          "start": 5929,
+          "end": 5935,
+          "status": "differs-from-k",
+          "k_text": "масам"
+        },
+        {
+          "start": 5936,
+          "end": 6122,
+          "status": "k-attested"
+        },
+        {
+          "start": 6123,
+          "end": 6130,
+          "status": "differs-from-k",
+          "k_text": "удивить"
+        },
+        {
+          "start": 6131,
+          "end": 7761,
+          "status": "k-attested"
+        },
+        {
+          "start": 7762,
+          "end": 7770,
+          "status": "differs-from-k",
+          "k_text": "цели доброй"
+        },
+        {
+          "start": 7771,
+          "end": 7836,
+          "status": "k-attested"
+        },
+        {
+          "start": 7838,
+          "end": 7839,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 7840,
+          "end": 8218,
+          "status": "k-attested"
+        },
+        {
+          "start": 8219,
+          "end": 8220,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 8221,
+          "end": 8388,
+          "status": "k-attested"
+        },
+        {
+          "start": 8389,
+          "end": 8398,
+          "status": "differs-from-k",
+          "k_text": "програмы"
+        },
+        {
+          "start": 8399,
+          "end": 8993,
+          "status": "k-attested"
+        },
+        {
+          "start": 8994,
+          "end": 9008,
+          "status": "differs-from-k",
+          "k_text": "интелигентные"
+        },
+        {
+          "start": 9009,
+          "end": 9590,
+          "status": "k-attested"
+        },
+        {
+          "start": 9591,
+          "end": 9596,
+          "status": "differs-from-k",
+          "k_text": "права"
+        },
+        {
+          "start": 9598,
+          "end": 9808,
+          "status": "k-attested"
+        },
+        {
+          "start": 9809,
+          "end": 9814,
+          "status": "differs-from-k",
+          "k_text": "чрез"
+        },
+        {
+          "start": 9815,
+          "end": 10284,
+          "status": "k-attested"
+        },
+        {
+          "start": 10285,
+          "end": 10292,
+          "status": "differs-from-k",
+          "k_text": "защита"
+        },
+        {
+          "start": 10293,
+          "end": 11078,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 1530,
+        "supplemented-not-in-k": 4,
+        "differs-from-k": 14
+      },
+      "percent": {
+        "k-attested": 98.8,
+        "supplemented-not-in-k": 0.3,
+        "differs-from-k": 0.9
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "2": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 14,
+          "status": "k-attested"
+        },
+        {
+          "start": 16,
+          "end": 21,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 22,
+          "end": 37,
+          "status": "k-attested"
+        },
+        {
+          "start": 38,
+          "end": 53,
+          "status": "differs-from-k",
+          "k_text": "териториальных"
+        },
+        {
+          "start": 54,
+          "end": 229,
+          "status": "k-attested"
+        },
+        {
+          "start": 230,
+          "end": 247,
+          "status": "differs-from-k",
+          "k_text": "интернационной"
+        },
+        {
+          "start": 248,
+          "end": 268,
+          "status": "k-attested"
+        },
+        {
+          "start": 269,
+          "end": 279,
+          "status": "differs-from-k",
+          "k_text": "милионами"
+        },
+        {
+          "start": 280,
+          "end": 454,
+          "status": "k-attested"
+        },
+        {
+          "start": 455,
+          "end": 461,
+          "status": "differs-from-k",
+          "k_text": "гражданскее"
+        },
+        {
+          "start": 462,
+          "end": 833,
+          "status": "k-attested"
+        },
+        {
+          "start": 834,
+          "end": 836,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 837,
+          "end": 1629,
+          "status": "k-attested"
+        },
+        {
+          "start": 1630,
+          "end": 1633,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 1634,
+          "end": 1829,
+          "status": "k-attested"
+        },
+        {
+          "start": 1830,
+          "end": 1844,
+          "status": "differs-from-k",
+          "k_text": "колективности"
+        },
+        {
+          "start": 1846,
+          "end": 1951,
+          "status": "k-attested"
+        },
+        {
+          "start": 1952,
+          "end": 1968,
+          "status": "differs-from-k",
+          "k_text": "построить чрез"
+        },
+        {
+          "start": 1969,
+          "end": 2687,
+          "status": "k-attested"
+        },
+        {
+          "start": 2688,
+          "end": 2697,
+          "status": "differs-from-k",
+          "k_text": "програму"
+        },
+        {
+          "start": 2699,
+          "end": 2802,
+          "status": "k-attested"
+        },
+        {
+          "start": 2803,
+          "end": 2808,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 2809,
+          "end": 3712,
+          "status": "k-attested"
+        },
+        {
+          "start": 3714,
+          "end": 3726,
+          "status": "differs-from-k",
+          "k_text": "Интелигенты"
+        },
+        {
+          "start": 3727,
+          "end": 4909,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 680,
+        "supplemented-not-in-k": 4,
+        "differs-from-k": 9
+      },
+      "percent": {
+        "k-attested": 98.1,
+        "supplemented-not-in-k": 0.6,
+        "differs-from-k": 1.3
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "3": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 7,
+          "status": "k-attested"
+        },
+        {
+          "start": 8,
+          "end": 12,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 13,
+          "end": 1004,
+          "status": "k-attested"
+        },
+        {
+          "start": 1005,
+          "end": 1017,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 1019,
+          "end": 1379,
+          "status": "k-attested"
+        },
+        {
+          "start": 1380,
+          "end": 1397,
+          "status": "differs-from-k",
+          "k_text": "подорвут все существующие установления"
+        },
+        {
+          "start": 1402,
+          "end": 1643,
+          "status": "k-attested"
+        },
+        {
+          "start": 1644,
+          "end": 1652,
+          "status": "differs-from-k",
+          "k_text": "подорвет"
+        },
+        {
+          "start": 1653,
+          "end": 1745,
+          "status": "k-attested"
+        },
+        {
+          "start": 1746,
+          "end": 1755,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 1756,
+          "end": 1796,
+          "status": "k-attested"
+        },
+        {
+          "start": 1797,
+          "end": 1799,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 1800,
+          "end": 2087,
+          "status": "k-attested"
+        },
+        {
+          "start": 2088,
+          "end": 2098,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 2099,
+          "end": 2390,
+          "status": "k-attested"
+        },
+        {
+          "start": 2391,
+          "end": 2394,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 2395,
+          "end": 3108,
+          "status": "k-attested"
+        },
+        {
+          "start": 3109,
+          "end": 3112,
+          "status": "differs-from-k",
+          "k_text": "им"
+        },
+        {
+          "start": 3113,
+          "end": 4316,
+          "status": "k-attested"
+        },
+        {
+          "start": 4317,
+          "end": 4323,
+          "status": "differs-from-k",
+          "k_text": "класы"
+        },
+        {
+          "start": 4324,
+          "end": 4661,
+          "status": "k-attested"
+        },
+        {
+          "start": 4662,
+          "end": 4676,
+          "status": "differs-from-k",
+          "k_text": "самоохранения"
+        },
+        {
+          "start": 4678,
+          "end": 5463,
+          "status": "k-attested"
+        },
+        {
+          "start": 5464,
+          "end": 5471,
+          "status": "differs-from-k",
+          "k_text": "комуны"
+        },
+        {
+          "start": 5472,
+          "end": 5502,
+          "status": "k-attested"
+        },
+        {
+          "start": 5503,
+          "end": 5511,
+          "status": "differs-from-k",
+          "k_text": "прогрес"
+        },
+        {
+          "start": 5512,
+          "end": 5974,
+          "status": "k-attested"
+        },
+        {
+          "start": 5975,
+          "end": 5980,
+          "status": "differs-from-k",
+          "k_text": "масу"
+        },
+        {
+          "start": 5981,
+          "end": 6451,
+          "status": "k-attested"
+        },
+        {
+          "start": 6453,
+          "end": 6468,
+          "status": "differs-from-k",
+          "k_text": "полающих пред"
+        },
+        {
+          "start": 6469,
+          "end": 6584,
+          "status": "k-attested"
+        },
+        {
+          "start": 6585,
+          "end": 6597,
+          "status": "differs-from-k",
+          "k_text": "противоречия"
+        },
+        {
+          "start": 6598,
+          "end": 6642,
+          "status": "k-attested"
+        },
+        {
+          "start": 6643,
+          "end": 6648,
+          "status": "differs-from-k",
+          "k_text": "пред"
+        },
+        {
+          "start": 6649,
+          "end": 6709,
+          "status": "k-attested"
+        },
+        {
+          "start": 6710,
+          "end": 6722,
+          "status": "differs-from-k",
+          "k_text": "неузвимости"
+        },
+        {
+          "start": 6724,
+          "end": 6738,
+          "status": "k-attested"
+        },
+        {
+          "start": 6739,
+          "end": 6748,
+          "status": "differs-from-k",
+          "k_text": "примьеров"
+        },
+        {
+          "start": 6750,
+          "end": 6873,
+          "status": "k-attested"
+        },
+        {
+          "start": 6874,
+          "end": 6881,
+          "status": "differs-from-k",
+          "k_text": "властителей"
+        },
+        {
+          "start": 6883,
+          "end": 7436,
+          "status": "k-attested"
+        },
+        {
+          "start": 7437,
+          "end": 7443,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 7444,
+          "end": 7457,
+          "status": "k-attested"
+        },
+        {
+          "start": 7459,
+          "end": 7460,
+          "status": "differs-from-k",
+          "k_text": "Божеских"
+        },
+        {
+          "start": 7462,
+          "end": 7463,
+          "status": "k-attested"
+        },
+        {
+          "start": 7464,
+          "end": 7473,
+          "status": "differs-from-k",
+          "k_text": "природных"
+        },
+        {
+          "start": 7475,
+          "end": 7543,
+          "status": "k-attested"
+        },
+        {
+          "start": 7544,
+          "end": 7547,
+          "status": "differs-from-k",
+          "k_text": "ее"
+        },
+        {
+          "start": 7548,
+          "end": 7790,
+          "status": "k-attested"
+        },
+        {
+          "start": 7791,
+          "end": 7798,
+          "status": "differs-from-k",
+          "k_text": "борятся"
+        }
+      ],
+      "counts": {
+        "k-attested": 1097,
+        "supplemented-not-in-k": 7,
+        "differs-from-k": 21
+      },
+      "percent": {
+        "k-attested": 97.5,
+        "supplemented-not-in-k": 0.6,
+        "differs-from-k": 1.9
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "4": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 540,
+          "status": "k-attested"
+        },
+        {
+          "start": 541,
+          "end": 546,
+          "status": "differs-from-k",
+          "k_text": "могли"
+        },
+        {
+          "start": 547,
+          "end": 554,
+          "status": "k-attested"
+        },
+        {
+          "start": 555,
+          "end": 565,
+          "status": "differs-from-k",
+          "k_text": "безвредными"
+        },
+        {
+          "start": 566,
+          "end": 592,
+          "status": "k-attested"
+        },
+        {
+          "start": 593,
+          "end": 606,
+          "status": "differs-from-k",
+          "k_text": "они держались"
+        },
+        {
+          "start": 607,
+          "end": 1523,
+          "status": "k-attested"
+        },
+        {
+          "start": 1524,
+          "end": 1529,
+          "status": "differs-from-k",
+          "k_text": "классы"
+        },
+        {
+          "start": 1531,
+          "end": 1964,
+          "status": "k-attested"
+        },
+        {
+          "start": 1965,
+          "end": 1994,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 1996,
+          "end": 2059,
+          "status": "k-attested"
+        },
+        {
+          "start": 2062,
+          "end": 2075,
+          "status": "differs-from-k",
+          "k_text": "интелигентов"
+        },
+        {
+          "start": 2077,
+          "end": 3055,
+          "status": "k-attested"
+        },
+        {
+          "start": 3057,
+          "end": 3058,
+          "status": "differs-from-k",
+          "k_text": "прогресом"
+        },
+        {
+          "start": 3061,
+          "end": 3216,
+          "status": "k-attested"
+        },
+        {
+          "start": 3217,
+          "end": 3220,
+          "status": "differs-from-k",
+          "k_text": "времени"
+        },
+        {
+          "start": 3222,
+          "end": 3530,
+          "status": "k-attested"
+        },
+        {
+          "start": 3532,
+          "end": 3541,
+          "status": "differs-from-k",
+          "k_text": "искуство"
+        },
+        {
+          "start": 3542,
+          "end": 4734,
+          "status": "k-attested"
+        },
+        {
+          "start": 4736,
+          "end": 4739,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 4740,
+          "end": 4798,
+          "status": "k-attested"
+        },
+        {
+          "start": 4799,
+          "end": 4804,
+          "status": "differs-from-k",
+          "k_text": "того"
+        },
+        {
+          "start": 4805,
+          "end": 5201,
+          "status": "k-attested"
+        },
+        {
+          "start": 5203,
+          "end": 5204,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 5205,
+          "end": 5249,
+          "status": "k-attested"
+        },
+        {
+          "start": 5250,
+          "end": 5263,
+          "status": "differs-from-k",
+          "k_text": "обезкураживать"
+        },
+        {
+          "start": 5264,
+          "end": 5433,
+          "status": "k-attested"
+        },
+        {
+          "start": 5434,
+          "end": 5440,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 5442,
+          "end": 5518,
+          "status": "k-attested"
+        },
+        {
+          "start": 5519,
+          "end": 5527,
+          "status": "differs-from-k",
+          "k_text": "ославить"
+        },
+        {
+          "start": 5528,
+          "end": 5941,
+          "status": "k-attested"
+        },
+        {
+          "start": 5942,
+          "end": 5953,
+          "status": "differs-from-k",
+          "k_text": "бладеяния"
+        },
+        {
+          "start": 5954,
+          "end": 5957,
+          "status": "k-attested"
+        },
+        {
+          "start": 5958,
+          "end": 5967,
+          "status": "differs-from-k",
+          "k_text": "прогреса"
+        },
+        {
+          "start": 5969,
+          "end": 5986,
+          "status": "k-attested"
+        },
+        {
+          "start": 5987,
+          "end": 5998,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 5999,
+          "end": 6024,
+          "status": "k-attested"
+        },
+        {
+          "start": 6027,
+          "end": 6043,
+          "status": "differs-from-k",
+          "k_text": "либерального направления"
+        },
+        {
+          "start": 6044,
+          "end": 6555,
+          "status": "k-attested"
+        },
+        {
+          "start": 6556,
+          "end": 6572,
+          "status": "differs-from-k",
+          "k_text": "Второе средство"
+        },
+        {
+          "start": 6573,
+          "end": 6629,
+          "status": "k-attested"
+        },
+        {
+          "start": 6630,
+          "end": 6640,
+          "status": "differs-from-k",
+          "k_text": "размножили"
+        },
+        {
+          "start": 6641,
+          "end": 7044,
+          "status": "k-attested"
+        },
+        {
+          "start": 7045,
+          "end": 7057,
+          "status": "differs-from-k",
+          "k_text": "колективные"
+        },
+        {
+          "start": 7058,
+          "end": 7281,
+          "status": "k-attested"
+        },
+        {
+          "start": 7283,
+          "end": 7286,
+          "status": "differs-from-k",
+          "k_text": "милионы"
+        },
+        {
+          "start": 7287,
+          "end": 7385,
+          "status": "k-attested"
+        },
+        {
+          "start": 7386,
+          "end": 7391,
+          "status": "differs-from-k",
+          "k_text": "пред"
+        },
+        {
+          "start": 7392,
+          "end": 7913,
+          "status": "k-attested"
+        },
+        {
+          "start": 7915,
+          "end": 7939,
+          "status": "differs-from-k",
+          "k_text": "все будут считать"
+        },
+        {
+          "start": 7940,
+          "end": 8040,
+          "status": "k-attested"
+        },
+        {
+          "start": 8041,
+          "end": 8053,
+          "status": "differs-from-k",
+          "k_text": "колосальной"
+        },
+        {
+          "start": 8054,
+          "end": 8171,
+          "status": "k-attested"
+        },
+        {
+          "start": 8172,
+          "end": 8184,
+          "status": "differs-from-k",
+          "k_text": "колосальных"
+        },
+        {
+          "start": 8185,
+          "end": 8211,
+          "status": "k-attested"
+        },
+        {
+          "start": 8212,
+          "end": 8220,
+          "status": "differs-from-k",
+          "k_text": "зависить"
+        },
+        {
+          "start": 8221,
+          "end": 8665,
+          "status": "k-attested"
+        },
+        {
+          "start": 8666,
+          "end": 8681,
+          "status": "differs-from-k",
+          "k_text": "териториальная"
+        },
+        {
+          "start": 8682,
+          "end": 8963,
+          "status": "k-attested"
+        },
+        {
+          "start": 8964,
+          "end": 8967,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 8968,
+          "end": 9603,
+          "status": "k-attested"
+        },
+        {
+          "start": 9604,
+          "end": 9605,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 9606,
+          "end": 11015,
+          "status": "k-attested"
+        },
+        {
+          "start": 11016,
+          "end": 11020,
+          "status": "differs-from-k",
+          "k_text": "интелегентных"
+        },
+        {
+          "start": 11022,
+          "end": 11264,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 1561,
+        "supplemented-not-in-k": 9,
+        "differs-from-k": 30
+      },
+      "percent": {
+        "k-attested": 97.6,
+        "supplemented-not-in-k": 0.6,
+        "differs-from-k": 1.9
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "5": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 11,
+          "status": "k-attested"
+        },
+        {
+          "start": 12,
+          "end": 22,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 24,
+          "end": 228,
+          "status": "k-attested"
+        },
+        {
+          "start": 230,
+          "end": 291,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 294,
+          "end": 449,
+          "status": "k-attested"
+        },
+        {
+          "start": 450,
+          "end": 457,
+          "status": "differs-from-k",
+          "k_text": "двояковая"
+        },
+        {
+          "start": 458,
+          "end": 492,
+          "status": "k-attested"
+        },
+        {
+          "start": 493,
+          "end": 501,
+          "status": "differs-from-k",
+          "k_text": "страхе"
+        },
+        {
+          "start": 502,
+          "end": 601,
+          "status": "k-attested"
+        },
+        {
+          "start": 602,
+          "end": 603,
+          "status": "differs-from-k",
+          "k_text": "у"
+        },
+        {
+          "start": 604,
+          "end": 659,
+          "status": "k-attested"
+        },
+        {
+          "start": 661,
+          "end": 681,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 682,
+          "end": 1009,
+          "status": "k-attested"
+        },
+        {
+          "start": 1010,
+          "end": 1045,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 1046,
+          "end": 1099,
+          "status": "k-attested"
+        },
+        {
+          "start": 1100,
+          "end": 1106,
+          "status": "differs-from-k",
+          "k_text": "гои"
+        },
+        {
+          "start": 1107,
+          "end": 1401,
+          "status": "k-attested"
+        },
+        {
+          "start": 1402,
+          "end": 1413,
+          "status": "differs-from-k",
+          "k_text": "коллектвно"
+        },
+        {
+          "start": 1414,
+          "end": 1831,
+          "status": "k-attested"
+        },
+        {
+          "start": 1832,
+          "end": 1840,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 1842,
+          "end": 1895,
+          "status": "k-attested"
+        },
+        {
+          "start": 1896,
+          "end": 1903,
+          "status": "differs-from-k",
+          "k_text": "тероре"
+        },
+        {
+          "start": 1905,
+          "end": 2010,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 263,
+        "supplemented-not-in-k": 18,
+        "differs-from-k": 6
+      },
+      "percent": {
+        "k-attested": 91.6,
+        "supplemented-not-in-k": 6.3,
+        "differs-from-k": 2.1
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "6": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 2,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 3,
+          "end": 124,
+          "status": "k-attested"
+        },
+        {
+          "start": 125,
+          "end": 135,
+          "status": "differs-from-k",
+          "k_text": "выискать"
+        },
+        {
+          "start": 136,
+          "end": 680,
+          "status": "k-attested"
+        },
+        {
+          "start": 681,
+          "end": 684,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 685,
+          "end": 1527,
+          "status": "k-attested"
+        },
+        {
+          "start": 1528,
+          "end": 1539,
+          "status": "differs-from-k",
+          "k_text": "милионеров"
+        },
+        {
+          "start": 1541,
+          "end": 1991,
+          "status": "k-attested"
+        },
+        {
+          "start": 1993,
+          "end": 2026,
+          "status": "differs-from-k",
+          "k_text": "как свои собственные"
+        }
+      ],
+      "counts": {
+        "k-attested": 266,
+        "supplemented-not-in-k": 2,
+        "differs-from-k": 7
+      },
+      "percent": {
+        "k-attested": 96.7,
+        "supplemented-not-in-k": 0.7,
+        "differs-from-k": 2.5
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "7": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 15,
+          "status": "k-attested"
+        },
+        {
+          "start": 16,
+          "end": 21,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 22,
+          "end": 1665,
+          "status": "k-attested"
+        },
+        {
+          "start": 1666,
+          "end": 1672,
+          "status": "differs-from-k",
+          "k_text": "терор"
+        },
+        {
+          "start": 1673,
+          "end": 1737,
+          "status": "k-attested"
+        },
+        {
+          "start": 1738,
+          "end": 1750,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 1751,
+          "end": 1814,
+          "status": "k-attested"
+        },
+        {
+          "start": 1816,
+          "end": 1825,
+          "status": "differs-from-k",
+          "k_text": "комунары"
+        },
+        {
+          "start": 1826,
+          "end": 2328,
+          "status": "k-attested"
+        },
+        {
+          "start": 2329,
+          "end": 2341,
+          "status": "differs-from-k",
+          "k_text": "враспоряжение"
+        },
+        {
+          "start": 2343,
+          "end": 2399,
+          "status": "k-attested"
+        },
+        {
+          "start": 2401,
+          "end": 2407,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 2409,
+          "end": 4114,
+          "status": "k-attested"
+        },
+        {
+          "start": 4115,
+          "end": 4128,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 4129,
+          "end": 4159,
+          "status": "k-attested"
+        },
+        {
+          "start": 4160,
+          "end": 4167,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 4169,
+          "end": 4260,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 611,
+        "supplemented-not-in-k": 6,
+        "differs-from-k": 3
+      },
+      "percent": {
+        "k-attested": 98.5,
+        "supplemented-not-in-k": 1.0,
+        "differs-from-k": 0.5
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "8": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 7,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 8,
+          "end": 374,
+          "status": "k-attested"
+        },
+        {
+          "start": 376,
+          "end": 383,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 385,
+          "end": 397,
+          "status": "k-attested"
+        },
+        {
+          "start": 398,
+          "end": 408,
+          "status": "differs-from-k",
+          "k_text": "ассоциаций"
+        },
+        {
+          "start": 410,
+          "end": 494,
+          "status": "k-attested"
+        },
+        {
+          "start": 497,
+          "end": 502,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 504,
+          "end": 533,
+          "status": "k-attested"
+        },
+        {
+          "start": 535,
+          "end": 559,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 562,
+          "end": 633,
+          "status": "k-attested"
+        },
+        {
+          "start": 635,
+          "end": 719,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 721,
+          "end": 839,
+          "status": "k-attested"
+        },
+        {
+          "start": 840,
+          "end": 849,
+          "status": "differs-from-k",
+          "k_text": "осуществить"
+        },
+        {
+          "start": 850,
+          "end": 954,
+          "status": "k-attested"
+        },
+        {
+          "start": 955,
+          "end": 968,
+          "status": "differs-from-k",
+          "k_text": "особое уважение"
+        },
+        {
+          "start": 969,
+          "end": 1121,
+          "status": "k-attested"
+        },
+        {
+          "start": 1122,
+          "end": 1134,
+          "status": "differs-from-k",
+          "k_text": "рассчитаем"
+        },
+        {
+          "start": 1135,
+          "end": 1304,
+          "status": "k-attested"
+        },
+        {
+          "start": 1305,
+          "end": 1311,
+          "status": "differs-from-k",
+          "k_text": "замену"
+        },
+        {
+          "start": 1312,
+          "end": 2081,
+          "status": "k-attested"
+        },
+        {
+          "start": 2082,
+          "end": 2103,
+          "status": "differs-from-k",
+          "k_text": "асоциации отслужив"
+        },
+        {
+          "start": 2104,
+          "end": 2190,
+          "status": "k-attested"
+        },
+        {
+          "start": 2191,
+          "end": 2194,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 2195,
+          "end": 2353,
+          "status": "k-attested"
+        },
+        {
+          "start": 2354,
+          "end": 2368,
+          "status": "differs-from-k",
+          "k_text": "интелегентных"
+        },
+        {
+          "start": 2370,
+          "end": 2918,
+          "status": "k-attested"
+        },
+        {
+          "start": 2919,
+          "end": 2929,
+          "status": "differs-from-k",
+          "k_text": "находиться в"
+        },
+        {
+          "start": 2930,
+          "end": 2942,
+          "status": "k-attested"
+        },
+        {
+          "start": 2944,
+          "end": 2945,
+          "status": "differs-from-k",
+          "k_text": "голове"
+        },
+        {
+          "start": 2948,
+          "end": 3429,
+          "status": "k-attested"
+        },
+        {
+          "start": 3430,
+          "end": 3446,
+          "status": "differs-from-k",
+          "k_text": "внесет одни недоразумения"
+        },
+        {
+          "start": 3449,
+          "end": 3737,
+          "status": "k-attested"
+        },
+        {
+          "start": 3738,
+          "end": 3746,
+          "status": "differs-from-k",
+          "k_text": "физиономию"
+        },
+        {
+          "start": 3748,
+          "end": 4448,
+          "status": "k-attested"
+        },
+        {
+          "start": 4450,
+          "end": 4461,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 4463,
+          "end": 4901,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 655,
+        "supplemented-not-in-k": 20,
+        "differs-from-k": 15
+      },
+      "percent": {
+        "k-attested": 94.9,
+        "supplemented-not-in-k": 2.9,
+        "differs-from-k": 2.2
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "9": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 315,
+          "status": "k-attested"
+        },
+        {
+          "start": 316,
+          "end": 331,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 333,
+          "end": 1151,
+          "status": "k-attested"
+        },
+        {
+          "start": 1152,
+          "end": 1159,
+          "status": "differs-from-k",
+          "k_text": "отнимим"
+        },
+        {
+          "start": 1160,
+          "end": 1369,
+          "status": "k-attested"
+        },
+        {
+          "start": 1370,
+          "end": 1391,
+          "status": "differs-from-k",
+          "k_text": "решению народа плебесит"
+        },
+        {
+          "start": 1394,
+          "end": 2446,
+          "status": "k-attested"
+        },
+        {
+          "start": 2448,
+          "end": 2459,
+          "status": "differs-from-k",
+          "k_text": "заставим сократить"
+        },
+        {
+          "start": 2460,
+          "end": 2565,
+          "status": "k-attested"
+        },
+        {
+          "start": 2566,
+          "end": 2577,
+          "status": "differs-from-k",
+          "k_text": "в праве"
+        },
+        {
+          "start": 2578,
+          "end": 2635,
+          "status": "k-attested"
+        },
+        {
+          "start": 2636,
+          "end": 2644,
+          "status": "differs-from-k",
+          "k_text": "распуска"
+        },
+        {
+          "start": 2645,
+          "end": 3130,
+          "status": "k-attested"
+        },
+        {
+          "start": 3131,
+          "end": 3142,
+          "status": "differs-from-k",
+          "k_text": "окулировать"
+        },
+        {
+          "start": 3144,
+          "end": 3951,
+          "status": "k-attested"
+        },
+        {
+          "start": 3952,
+          "end": 3959,
+          "status": "differs-from-k",
+          "k_text": "рассчеты"
+        },
+        {
+          "start": 3961,
+          "end": 4312,
+          "status": "k-attested"
+        },
+        {
+          "start": 4313,
+          "end": 4317,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 4318,
+          "end": 4874,
+          "status": "k-attested"
+        },
+        {
+          "start": 4875,
+          "end": 4891,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 4893,
+          "end": 4903,
+          "status": "k-attested"
+        },
+        {
+          "start": 4904,
+          "end": 4913,
+          "status": "differs-from-k",
+          "k_text": "програма"
+        },
+        {
+          "start": 4914,
+          "end": 4973,
+          "status": "k-attested"
+        },
+        {
+          "start": 4975,
+          "end": 4976,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 4977,
+          "end": 5041,
+          "status": "k-attested"
+        },
+        {
+          "start": 5042,
+          "end": 5066,
+          "status": "differs-from-k",
+          "k_text": "общих установлений"
+        },
+        {
+          "start": 5070,
+          "end": 5214,
+          "status": "k-attested"
+        },
+        {
+          "start": 5215,
+          "end": 5227,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 5231,
+          "end": 5262,
+          "status": "k-attested"
+        },
+        {
+          "start": 5263,
+          "end": 5270,
+          "status": "differs-from-k",
+          "k_text": "4"
+        },
+        {
+          "start": 5272,
+          "end": 5468,
+          "status": "k-attested"
+        },
+        {
+          "start": 5469,
+          "end": 5475,
+          "status": "differs-from-k",
+          "k_text": "пресы"
+        },
+        {
+          "start": 5477,
+          "end": 5482,
+          "status": "k-attested"
+        },
+        {
+          "start": 5483,
+          "end": 5493,
+          "status": "differs-from-k",
+          "k_text": "асоциаций"
+        },
+        {
+          "start": 5495,
+          "end": 5530,
+          "status": "k-attested"
+        },
+        {
+          "start": 5531,
+          "end": 5532,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 5533,
+          "end": 5656,
+          "status": "k-attested"
+        },
+        {
+          "start": 5657,
+          "end": 5671,
+          "status": "differs-from-k",
+          "k_text": "превозглашения"
+        },
+        {
+          "start": 5672,
+          "end": 6116,
+          "status": "k-attested"
+        },
+        {
+          "start": 6117,
+          "end": 6131,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 6134,
+          "end": 6329,
+          "status": "k-attested"
+        },
+        {
+          "start": 6331,
+          "end": 6332,
+          "status": "differs-from-k",
+          "k_text": "тероре"
+        },
+        {
+          "start": 6335,
+          "end": 6822,
+          "status": "k-attested"
+        },
+        {
+          "start": 6823,
+          "end": 6830,
+          "status": "differs-from-k",
+          "k_text": "свободу"
+        },
+        {
+          "start": 6832,
+          "end": 6973,
+          "status": "k-attested"
+        },
+        {
+          "start": 6974,
+          "end": 6982,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 6983,
+          "end": 7258,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 1009,
+        "supplemented-not-in-k": 10,
+        "differs-from-k": 20
+      },
+      "percent": {
+        "k-attested": 97.1,
+        "supplemented-not-in-k": 1.0,
+        "differs-from-k": 1.9
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "10": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 290,
+          "status": "k-attested"
+        },
+        {
+          "start": 291,
+          "end": 301,
+          "status": "differs-from-k",
+          "k_text": "програмой"
+        },
+        {
+          "start": 302,
+          "end": 303,
+          "status": "k-attested"
+        },
+        {
+          "start": 304,
+          "end": 305,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 306,
+          "end": 696,
+          "status": "k-attested"
+        },
+        {
+          "start": 697,
+          "end": 704,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 705,
+          "end": 1085,
+          "status": "k-attested"
+        },
+        {
+          "start": 1086,
+          "end": 1092,
+          "status": "differs-from-k",
+          "k_text": "пресы"
+        },
+        {
+          "start": 1094,
+          "end": 1300,
+          "status": "k-attested"
+        },
+        {
+          "start": 1302,
+          "end": 1308,
+          "status": "differs-from-k",
+          "k_text": "объявим что"
+        },
+        {
+          "start": 1310,
+          "end": 1346,
+          "status": "k-attested"
+        },
+        {
+          "start": 1347,
+          "end": 1353,
+          "status": "differs-from-k",
+          "k_text": "органа"
+        },
+        {
+          "start": 1354,
+          "end": 1964,
+          "status": "k-attested"
+        },
+        {
+          "start": 1966,
+          "end": 1967,
+          "status": "differs-from-k",
+          "k_text": "у"
+        },
+        {
+          "start": 1968,
+          "end": 1977,
+          "status": "k-attested"
+        },
+        {
+          "start": 1978,
+          "end": 1992,
+          "status": "differs-from-k",
+          "k_text": "централизируются"
+        },
+        {
+          "start": 1993,
+          "end": 2490,
+          "status": "k-attested"
+        },
+        {
+          "start": 2491,
+          "end": 2500,
+          "status": "differs-from-k",
+          "k_text": "прогреса"
+        },
+        {
+          "start": 2502,
+          "end": 2599,
+          "status": "k-attested"
+        },
+        {
+          "start": 2600,
+          "end": 2608,
+          "status": "differs-from-k",
+          "k_text": "прогрес"
+        },
+        {
+          "start": 2609,
+          "end": 3537,
+          "status": "k-attested"
+        },
+        {
+          "start": 3539,
+          "end": 3592,
+          "status": "differs-from-k",
+          "k_text": "Получив заказ"
+        },
+        {
+          "start": 3594,
+          "end": 3735,
+          "status": "k-attested"
+        },
+        {
+          "start": 3738,
+          "end": 3745,
+          "status": "differs-from-k",
+          "k_text": "а если мы будем видеть что нельзя отказать в этом то забежим"
+        },
+        {
+          "start": 3746,
+          "end": 3890,
+          "status": "k-attested"
+        },
+        {
+          "start": 3891,
+          "end": 3895,
+          "status": "differs-from-k",
+          "k_text": "орудия"
+        },
+        {
+          "start": 3897,
+          "end": 4127,
+          "status": "k-attested"
+        },
+        {
+          "start": 4128,
+          "end": 4138,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 4141,
+          "end": 4378,
+          "status": "k-attested"
+        },
+        {
+          "start": 4380,
+          "end": 4406,
+          "status": "differs-from-k",
+          "k_text": "у нас будут стоять"
+        },
+        {
+          "start": 4407,
+          "end": 4524,
+          "status": "k-attested"
+        },
+        {
+          "start": 4526,
+          "end": 4543,
+          "status": "differs-from-k",
+          "k_text": "Во вторых будут"
+        },
+        {
+          "start": 4544,
+          "end": 4670,
+          "status": "k-attested"
+        },
+        {
+          "start": 4671,
+          "end": 4700,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 4701,
+          "end": 5437,
+          "status": "k-attested"
+        },
+        {
+          "start": 5438,
+          "end": 5440,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 5441,
+          "end": 5602,
+          "status": "k-attested"
+        },
+        {
+          "start": 5603,
+          "end": 5607,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 5608,
+          "end": 6613,
+          "status": "k-attested"
+        },
+        {
+          "start": 6614,
+          "end": 6625,
+          "status": "differs-from-k",
+          "k_text": "успокаивать"
+        },
+        {
+          "start": 6626,
+          "end": 7102,
+          "status": "k-attested"
+        },
+        {
+          "start": 7103,
+          "end": 7109,
+          "status": "differs-from-k",
+          "k_text": "пресы"
+        },
+        {
+          "start": 7110,
+          "end": 7199,
+          "status": "k-attested"
+        },
+        {
+          "start": 7200,
+          "end": 7220,
+          "status": "differs-from-k",
+          "k_text": "существуют"
+        },
+        {
+          "start": 7221,
+          "end": 7274,
+          "status": "k-attested"
+        },
+        {
+          "start": 7275,
+          "end": 7291,
+          "status": "differs-from-k",
+          "k_text": "професиональной"
+        },
+        {
+          "start": 7292,
+          "end": 7432,
+          "status": "k-attested"
+        },
+        {
+          "start": 7434,
+          "end": 7486,
+          "status": "differs-from-k",
+          "k_text": "Это потому что"
+        },
+        {
+          "start": 7487,
+          "end": 7744,
+          "status": "k-attested"
+        },
+        {
+          "start": 7745,
+          "end": 7796,
+          "status": "differs-from-k",
+          "k_text": "былобы порукой его покорности сигналу и паролю"
+        },
+        {
+          "start": 7799,
+          "end": 8367,
+          "status": "k-attested"
+        },
+        {
+          "start": 8369,
+          "end": 8389,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 8391,
+          "end": 8464,
+          "status": "k-attested"
+        },
+        {
+          "start": 8465,
+          "end": 8471,
+          "status": "differs-from-k",
+          "k_text": "пресе"
+        },
+        {
+          "start": 8472,
+          "end": 8661,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 1206,
+        "supplemented-not-in-k": 15,
+        "differs-from-k": 49
+      },
+      "percent": {
+        "k-attested": 95.0,
+        "supplemented-not-in-k": 1.2,
+        "differs-from-k": 3.9
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "11": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 1203,
+          "status": "k-attested"
+        },
+        {
+          "start": 1204,
+          "end": 1214,
+          "status": "differs-from-k",
+          "k_text": "гои позаймутся новой"
+        },
+        {
+          "start": 1217,
+          "end": 1420,
+          "status": "k-attested"
+        },
+        {
+          "start": 1421,
+          "end": 1427,
+          "status": "differs-from-k",
+          "k_text": "пресу"
+        },
+        {
+          "start": 1428,
+          "end": 2095,
+          "status": "k-attested"
+        },
+        {
+          "start": 2097,
+          "end": 2098,
+          "status": "differs-from-k",
+          "k_text": "прогреса"
+        },
+        {
+          "start": 2103,
+          "end": 2199,
+          "status": "k-attested"
+        },
+        {
+          "start": 2200,
+          "end": 2215,
+          "status": "differs-from-k",
+          "k_text": "прогресировать"
+        },
+        {
+          "start": 2217,
+          "end": 2239,
+          "status": "k-attested"
+        },
+        {
+          "start": 2240,
+          "end": 2249,
+          "status": "differs-from-k",
+          "k_text": "прогресе"
+        },
+        {
+          "start": 2250,
+          "end": 2353,
+          "status": "k-attested"
+        },
+        {
+          "start": 2354,
+          "end": 2362,
+          "status": "differs-from-k",
+          "k_text": "прогрес"
+        },
+        {
+          "start": 2364,
+          "end": 2372,
+          "status": "k-attested"
+        },
+        {
+          "start": 2373,
+          "end": 2383,
+          "status": "differs-from-k",
+          "k_text": "затемению"
+        },
+        {
+          "start": 2384,
+          "end": 2725,
+          "status": "k-attested"
+        },
+        {
+          "start": 2726,
+          "end": 2728,
+          "status": "differs-from-k",
+          "k_text": "к"
+        },
+        {
+          "start": 2729,
+          "end": 3586,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 530,
+        "supplemented-not-in-k": 0,
+        "differs-from-k": 9
+      },
+      "percent": {
+        "k-attested": 98.3,
+        "supplemented-not-in-k": 0.0,
+        "differs-from-k": 1.7
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "12": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 76,
+          "status": "k-attested"
+        },
+        {
+          "start": 77,
+          "end": 86,
+          "status": "differs-from-k",
+          "k_text": "направление"
+        },
+        {
+          "start": 87,
+          "end": 228,
+          "status": "k-attested"
+        },
+        {
+          "start": 229,
+          "end": 234,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 236,
+          "end": 595,
+          "status": "k-attested"
+        },
+        {
+          "start": 596,
+          "end": 605,
+          "status": "differs-from-k",
+          "k_text": "направлений"
+        },
+        {
+          "start": 606,
+          "end": 1453,
+          "status": "k-attested"
+        },
+        {
+          "start": 1454,
+          "end": 1458,
+          "status": "differs-from-k",
+          "k_text": "веры"
+        },
+        {
+          "start": 1460,
+          "end": 1506,
+          "status": "k-attested"
+        },
+        {
+          "start": 1507,
+          "end": 1518,
+          "status": "differs-from-k",
+          "k_text": "равинов"
+        },
+        {
+          "start": 1519,
+          "end": 2085,
+          "status": "k-attested"
+        },
+        {
+          "start": 2086,
+          "end": 2110,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 2112,
+          "end": 2392,
+          "status": "k-attested"
+        },
+        {
+          "start": 2393,
+          "end": 2405,
+          "status": "differs-from-k",
+          "k_text": "ществующих"
+        },
+        {
+          "start": 2406,
+          "end": 2786,
+          "status": "k-attested"
+        },
+        {
+          "start": 2787,
+          "end": 2799,
+          "status": "differs-from-k",
+          "k_text": "раскасируем"
+        },
+        {
+          "start": 2801,
+          "end": 2837,
+          "status": "k-attested"
+        },
+        {
+          "start": 2838,
+          "end": 2845,
+          "status": "differs-from-k",
+          "k_text": "массонов"
+        },
+        {
+          "start": 2847,
+          "end": 2910,
+          "status": "k-attested"
+        },
+        {
+          "start": 2912,
+          "end": 2943,
+          "status": "differs-from-k",
+          "k_text": "которым позволим остаться в Европе"
+        },
+        {
+          "start": 2945,
+          "end": 2950,
+          "status": "k-attested"
+        },
+        {
+          "start": 2951,
+          "end": 2961,
+          "status": "differs-from-k",
+          "k_text": "находиться"
+        },
+        {
+          "start": 2962,
+          "end": 3035,
+          "status": "k-attested"
+        },
+        {
+          "start": 3036,
+          "end": 3056,
+          "status": "differs-from-k",
+          "k_text": "уличенные в участии"
+        },
+        {
+          "start": 3057,
+          "end": 3446,
+          "status": "k-attested"
+        },
+        {
+          "start": 3447,
+          "end": 3465,
+          "status": "differs-from-k",
+          "k_text": "они приносятся"
+        },
+        {
+          "start": 3466,
+          "end": 3657,
+          "status": "k-attested"
+        },
+        {
+          "start": 3658,
+          "end": 3664,
+          "status": "differs-from-k",
+          "k_text": "мисия"
+        },
+        {
+          "start": 3665,
+          "end": 3976,
+          "status": "k-attested"
+        },
+        {
+          "start": 3977,
+          "end": 3985,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 3986,
+          "end": 3992,
+          "status": "k-attested"
+        },
+        {
+          "start": 3993,
+          "end": 3998,
+          "status": "differs-from-k",
+          "k_text": "Силы"
+        },
+        {
+          "start": 4000,
+          "end": 4040,
+          "status": "k-attested"
+        },
+        {
+          "start": 4041,
+          "end": 4046,
+          "status": "differs-from-k",
+          "k_text": "Сила"
+        },
+        {
+          "start": 4047,
+          "end": 4402,
+          "status": "k-attested"
+        },
+        {
+          "start": 4403,
+          "end": 4411,
+          "status": "differs-from-k",
+          "k_text": "деятелелей"
+        },
+        {
+          "start": 4415,
+          "end": 4645,
+          "status": "k-attested"
+        },
+        {
+          "start": 4646,
+          "end": 4655,
+          "status": "differs-from-k",
+          "k_text": "програмы"
+        },
+        {
+          "start": 4657,
+          "end": 5210,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 715,
+        "supplemented-not-in-k": 6,
+        "differs-from-k": 23
+      },
+      "percent": {
+        "k-attested": 96.1,
+        "supplemented-not-in-k": 0.8,
+        "differs-from-k": 3.1
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "13": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 1564,
+          "status": "k-attested"
+        },
+        {
+          "start": 1565,
+          "end": 1574,
+          "status": "differs-from-k",
+          "k_text": "возрения"
+        },
+        {
+          "start": 1576,
+          "end": 1997,
+          "status": "k-attested"
+        },
+        {
+          "start": 1998,
+          "end": 2014,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 2017,
+          "end": 2456,
+          "status": "k-attested"
+        },
+        {
+          "start": 2457,
+          "end": 2466,
+          "status": "differs-from-k",
+          "k_text": "програму"
+        },
+        {
+          "start": 2467,
+          "end": 3268,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 482,
+        "supplemented-not-in-k": 2,
+        "differs-from-k": 2
+      },
+      "percent": {
+        "k-attested": 99.2,
+        "supplemented-not-in-k": 0.4,
+        "differs-from-k": 0.4
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "14": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 512,
+          "status": "k-attested"
+        },
+        {
+          "start": 513,
+          "end": 516,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 517,
+          "end": 858,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 125,
+        "supplemented-not-in-k": 1,
+        "differs-from-k": 0
+      },
+      "percent": {
+        "k-attested": 99.2,
+        "supplemented-not-in-k": 0.8,
+        "differs-from-k": 0.0
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "15": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 168,
+          "status": "k-attested"
+        },
+        {
+          "start": 169,
+          "end": 181,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 182,
+          "end": 597,
+          "status": "k-attested"
+        },
+        {
+          "start": 598,
+          "end": 616,
+          "status": "differs-from-k",
+          "k_text": "эксперементировать"
+        },
+        {
+          "start": 617,
+          "end": 2560,
+          "status": "k-attested"
+        },
+        {
+          "start": 2561,
+          "end": 2573,
+          "status": "differs-from-k",
+          "k_text": "колективную"
+        },
+        {
+          "start": 2574,
+          "end": 4753,
+          "status": "k-attested"
+        },
+        {
+          "start": 4754,
+          "end": 4766,
+          "status": "differs-from-k",
+          "k_text": "касационное"
+        },
+        {
+          "start": 4767,
+          "end": 4961,
+          "status": "k-attested"
+        },
+        {
+          "start": 4962,
+          "end": 4971,
+          "status": "differs-from-k",
+          "k_text": "касируем"
+        },
+        {
+          "start": 4972,
+          "end": 5432,
+          "status": "k-attested"
+        },
+        {
+          "start": 5434,
+          "end": 5443,
+          "status": "differs-from-k",
+          "k_text": "отечественной"
+        },
+        {
+          "start": 5444,
+          "end": 5482,
+          "status": "k-attested"
+        },
+        {
+          "start": 5483,
+          "end": 5497,
+          "status": "differs-from-k",
+          "k_text": "урегулировано"
+        },
+        {
+          "start": 5498,
+          "end": 6016,
+          "status": "k-attested"
+        },
+        {
+          "start": 6017,
+          "end": 6062,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 6063,
+          "end": 6794,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 926,
+        "supplemented-not-in-k": 8,
+        "differs-from-k": 6
+      },
+      "percent": {
+        "k-attested": 98.5,
+        "supplemented-not-in-k": 0.9,
+        "differs-from-k": 0.6
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "16": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 26,
+          "status": "k-attested"
+        },
+        {
+          "start": 27,
+          "end": 33,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 34,
+          "end": 50,
+          "status": "k-attested"
+        },
+        {
+          "start": 51,
+          "end": 63,
+          "status": "differs-from-k",
+          "k_text": "колективной"
+        },
+        {
+          "start": 64,
+          "end": 111,
+          "status": "k-attested"
+        },
+        {
+          "start": 112,
+          "end": 125,
+          "status": "differs-from-k",
+          "k_text": "колективизма"
+        },
+        {
+          "start": 127,
+          "end": 270,
+          "status": "k-attested"
+        },
+        {
+          "start": 271,
+          "end": 282,
+          "status": "differs-from-k",
+          "k_text": "програмами"
+        },
+        {
+          "start": 283,
+          "end": 1399,
+          "status": "k-attested"
+        },
+        {
+          "start": 1401,
+          "end": 1411,
+          "status": "differs-from-k",
+          "k_text": "Класицизм"
+        },
+        {
+          "start": 1413,
+          "end": 1519,
+          "status": "k-attested"
+        },
+        {
+          "start": 1520,
+          "end": 1529,
+          "status": "differs-from-k",
+          "k_text": "програмы"
+        },
+        {
+          "start": 1530,
+          "end": 1971,
+          "status": "k-attested"
+        },
+        {
+          "start": 1972,
+          "end": 1981,
+          "status": "differs-from-k",
+          "k_text": "програмы"
+        },
+        {
+          "start": 1983,
+          "end": 2027,
+          "status": "k-attested"
+        },
+        {
+          "start": 2028,
+          "end": 2034,
+          "status": "differs-from-k",
+          "k_text": "класа"
+        },
+        {
+          "start": 2035,
+          "end": 2086,
+          "status": "k-attested"
+        },
+        {
+          "start": 2087,
+          "end": 2092,
+          "status": "differs-from-k",
+          "k_text": "клас"
+        },
+        {
+          "start": 2093,
+          "end": 2758,
+          "status": "k-attested"
+        },
+        {
+          "start": 2759,
+          "end": 2768,
+          "status": "differs-from-k",
+          "k_text": "направления"
+        },
+        {
+          "start": 2769,
+          "end": 3211,
+          "status": "k-attested"
+        },
+        {
+          "start": 3212,
+          "end": 3221,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 3223,
+          "end": 3261,
+          "status": "k-attested"
+        },
+        {
+          "start": 3263,
+          "end": 3274,
+          "status": "differs-from-k",
+          "k_text": "сумеем поглотить"
+        },
+        {
+          "start": 3275,
+          "end": 3276,
+          "status": "k-attested"
+        },
+        {
+          "start": 3277,
+          "end": 3287,
+          "status": "differs-from-k",
+          "k_text": "направить"
+        },
+        {
+          "start": 3288,
+          "end": 3659,
+          "status": "k-attested"
+        },
+        {
+          "start": 3660,
+          "end": 3669,
+          "status": "differs-from-k",
+          "k_text": "програму"
+        },
+        {
+          "start": 3670,
+          "end": 3829,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 512,
+        "supplemented-not-in-k": 2,
+        "differs-from-k": 13
+      },
+      "percent": {
+        "k-attested": 97.2,
+        "supplemented-not-in-k": 0.4,
+        "differs-from-k": 2.5
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "17": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 89,
+          "status": "k-attested"
+        },
+        {
+          "start": 90,
+          "end": 97,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 98,
+          "end": 119,
+          "status": "k-attested"
+        },
+        {
+          "start": 121,
+          "end": 126,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 128,
+          "end": 188,
+          "status": "k-attested"
+        },
+        {
+          "start": 190,
+          "end": 204,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 208,
+          "end": 375,
+          "status": "k-attested"
+        },
+        {
+          "start": 376,
+          "end": 388,
+          "status": "differs-from-k",
+          "k_text": "деморализует"
+        },
+        {
+          "start": 389,
+          "end": 1936,
+          "status": "k-attested"
+        },
+        {
+          "start": 1937,
+          "end": 1948,
+          "status": "differs-from-k",
+          "k_text": "защитникиками"
+        },
+        {
+          "start": 1949,
+          "end": 2955,
+          "status": "k-attested"
+        },
+        {
+          "start": 2956,
+          "end": 2965,
+          "status": "differs-from-k",
+          "k_text": "програме"
+        },
+        {
+          "start": 2966,
+          "end": 3462,
+          "status": "k-attested"
+        },
+        {
+          "start": 3463,
+          "end": 3470,
+          "status": "differs-from-k",
+          "k_text": "групой"
+        },
+        {
+          "start": 3471,
+          "end": 3839,
+          "status": "k-attested"
+        },
+        {
+          "start": 3840,
+          "end": 3848,
+          "status": "differs-from-k",
+          "k_text": "продлили"
+        },
+        {
+          "start": 3849,
+          "end": 3938,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 557,
+        "supplemented-not-in-k": 4,
+        "differs-from-k": 5
+      },
+      "percent": {
+        "k-attested": 98.4,
+        "supplemented-not-in-k": 0.7,
+        "differs-from-k": 0.9
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "18": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 28,
+          "status": "k-attested"
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 33,
+          "end": 89,
+          "status": "k-attested"
+        },
+        {
+          "start": 90,
+          "end": 114,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 117,
+          "end": 152,
+          "status": "k-attested"
+        },
+        {
+          "start": 153,
+          "end": 158,
+          "status": "differs-from-k",
+          "k_text": "груп"
+        },
+        {
+          "start": 160,
+          "end": 274,
+          "status": "k-attested"
+        },
+        {
+          "start": 276,
+          "end": 277,
+          "status": "differs-from-k",
+          "k_text": "репресям"
+        },
+        {
+          "start": 280,
+          "end": 431,
+          "status": "k-attested"
+        },
+        {
+          "start": 432,
+          "end": 452,
+          "status": "differs-from-k",
+          "k_text": "таинственности"
+        },
+        {
+          "start": 455,
+          "end": 1042,
+          "status": "k-attested"
+        },
+        {
+          "start": 1043,
+          "end": 1047,
+          "status": "differs-from-k",
+          "k_text": "если"
+        },
+        {
+          "start": 1048,
+          "end": 1479,
+          "status": "k-attested"
+        },
+        {
+          "start": 1480,
+          "end": 1486,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 1488,
+          "end": 2082,
+          "status": "k-attested"
+        },
+        {
+          "start": 2083,
+          "end": 2090,
+          "status": "differs-from-k",
+          "k_text": "посадили"
+        },
+        {
+          "start": 2091,
+          "end": 2461,
+          "status": "k-attested"
+        },
+        {
+          "start": 2462,
+          "end": 2468,
+          "status": "differs-from-k",
+          "k_text": "пресу"
+        },
+        {
+          "start": 2469,
+          "end": 2635,
+          "status": "k-attested"
+        },
+        {
+          "start": 2636,
+          "end": 2644,
+          "status": "differs-from-k",
+          "k_text": "принятыми"
+        },
+        {
+          "start": 2645,
+          "end": 2704,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 373,
+        "supplemented-not-in-k": 5,
+        "differs-from-k": 10
+      },
+      "percent": {
+        "k-attested": 96.1,
+        "supplemented-not-in-k": 1.3,
+        "differs-from-k": 2.6
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "19": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 27,
+          "status": "k-attested"
+        },
+        {
+          "start": 28,
+          "end": 37,
+          "status": "differs-from-k",
+          "k_text": "програмы"
+        },
+        {
+          "start": 39,
+          "end": 137,
+          "status": "k-attested"
+        },
+        {
+          "start": 138,
+          "end": 144,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 146,
+          "end": 2099,
+          "status": "k-attested"
+        },
+        {
+          "start": 2100,
+          "end": 2107,
+          "status": "differs-from-k",
+          "k_text": "класов"
+        },
+        {
+          "start": 2109,
+          "end": 2268,
+          "status": "k-attested"
+        },
+        {
+          "start": 2269,
+          "end": 2283,
+          "status": "differs-from-k",
+          "k_text": "интелегентные"
+        },
+        {
+          "start": 2284,
+          "end": 2813,
+          "status": "k-attested"
+        },
+        {
+          "start": 2815,
+          "end": 2828,
+          "status": "differs-from-k",
+          "k_text": "прогресивным"
+        },
+        {
+          "start": 2830,
+          "end": 3122,
+          "status": "k-attested"
+        },
+        {
+          "start": 3123,
+          "end": 3128,
+          "status": "differs-from-k",
+          "k_text": "клас"
+        },
+        {
+          "start": 3129,
+          "end": 3784,
+          "status": "k-attested"
+        },
+        {
+          "start": 3785,
+          "end": 3790,
+          "status": "differs-from-k",
+          "k_text": "касы"
+        },
+        {
+          "start": 3792,
+          "end": 5372,
+          "status": "k-attested"
+        },
+        {
+          "start": 5373,
+          "end": 5398,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 5399,
+          "end": 9599,
+          "status": "k-attested"
+        },
+        {
+          "start": 9600,
+          "end": 9604,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 9608,
+          "end": 10595,
+          "status": "k-attested"
+        },
+        {
+          "start": 10596,
+          "end": 10603,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 10605,
+          "end": 10963,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 1528,
+        "supplemented-not-in-k": 8,
+        "differs-from-k": 6
+      },
+      "percent": {
+        "k-attested": 99.1,
+        "supplemented-not-in-k": 0.5,
+        "differs-from-k": 0.4
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "20": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 1,
+          "status": "differs-from-k",
+          "k_text": "3023"
+        },
+        {
+          "start": 2,
+          "end": 239,
+          "status": "k-attested"
+        },
+        {
+          "start": 240,
+          "end": 245,
+          "status": "differs-from-k",
+          "k_text": "касы"
+        },
+        {
+          "start": 246,
+          "end": 843,
+          "status": "k-attested"
+        },
+        {
+          "start": 844,
+          "end": 846,
+          "status": "differs-from-k",
+          "k_text": "не"
+        },
+        {
+          "start": 847,
+          "end": 921,
+          "status": "k-attested"
+        },
+        {
+          "start": 922,
+          "end": 927,
+          "status": "differs-from-k",
+          "k_text": "касы"
+        },
+        {
+          "start": 928,
+          "end": 1108,
+          "status": "k-attested"
+        },
+        {
+          "start": 1109,
+          "end": 1115,
+          "status": "differs-from-k",
+          "k_text": "ефект"
+        },
+        {
+          "start": 1117,
+          "end": 1269,
+          "status": "k-attested"
+        },
+        {
+          "start": 1271,
+          "end": 1272,
+          "status": "differs-from-k",
+          "k_text": "пасива"
+        },
+        {
+          "start": 1277,
+          "end": 1545,
+          "status": "k-attested"
+        },
+        {
+          "start": 1546,
+          "end": 1556,
+          "status": "differs-from-k",
+          "k_text": "пасив пасива"
+        },
+        {
+          "start": 1561,
+          "end": 3035,
+          "status": "k-attested"
+        },
+        {
+          "start": 3036,
+          "end": 3041,
+          "status": "differs-from-k",
+          "k_text": "касы"
+        },
+        {
+          "start": 3042,
+          "end": 3768,
+          "status": "k-attested"
+        },
+        {
+          "start": 3769,
+          "end": 3778,
+          "status": "differs-from-k",
+          "k_text": "милионов"
+        },
+        {
+          "start": 3779,
+          "end": 3981,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 566,
+        "supplemented-not-in-k": 0,
+        "differs-from-k": 10
+      },
+      "percent": {
+        "k-attested": 98.3,
+        "supplemented-not-in-k": 0.0,
+        "differs-from-k": 1.7
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "21": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 512,
+          "status": "k-attested"
+        },
+        {
+          "start": 513,
+          "end": 521,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 524,
+          "end": 1268,
+          "status": "k-attested"
+        },
+        {
+          "start": 1269,
+          "end": 1283,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 1285,
+          "end": 1610,
+          "status": "k-attested"
+        },
+        {
+          "start": 1611,
+          "end": 1616,
+          "status": "differs-from-k",
+          "k_text": "пред"
+        },
+        {
+          "start": 1617,
+          "end": 1664,
+          "status": "k-attested"
+        },
+        {
+          "start": 1665,
+          "end": 1673,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 1676,
+          "end": 2069,
+          "status": "k-attested"
+        },
+        {
+          "start": 2070,
+          "end": 2079,
+          "status": "differs-from-k",
+          "k_text": "масовыми"
+        },
+        {
+          "start": 2080,
+          "end": 3559,
+          "status": "k-attested"
+        },
+        {
+          "start": 3560,
+          "end": 3575,
+          "status": "supplemented-not-in-k"
+        }
+      ],
+      "counts": {
+        "k-attested": 504,
+        "supplemented-not-in-k": 10,
+        "differs-from-k": 2
+      },
+      "percent": {
+        "k-attested": 97.7,
+        "supplemented-not-in-k": 1.9,
+        "differs-from-k": 0.4
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "22": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 69,
+          "status": "k-attested"
+        },
+        {
+          "start": 71,
+          "end": 98,
+          "status": "supplemented-not-in-k"
+        },
+        {
+          "start": 101,
+          "end": 752,
+          "status": "k-attested"
+        },
+        {
+          "start": 754,
+          "end": 759,
+          "status": "differs-from-k",
+          "k_text": "чрез"
+        },
+        {
+          "start": 760,
+          "end": 1087,
+          "status": "k-attested"
+        },
+        {
+          "start": 1089,
+          "end": 1094,
+          "status": "differs-from-k",
+          "k_text": "План"
+        },
+        {
+          "start": 1095,
+          "end": 1478,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 207,
+        "supplemented-not-in-k": 5,
+        "differs-from-k": 2
+      },
+      "percent": {
+        "k-attested": 96.7,
+        "supplemented-not-in-k": 2.3,
+        "differs-from-k": 0.9
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    },
+    "23": {
+      "spans": [
+        {
+          "start": 0,
+          "end": 495,
+          "status": "k-attested"
+        },
+        {
+          "start": 496,
+          "end": 506,
+          "status": "differs-from-k",
+          "k_text": "територии"
+        },
+        {
+          "start": 508,
+          "end": 1562,
+          "status": "k-attested"
+        },
+        {
+          "start": 1563,
+          "end": 1567,
+          "status": "differs-from-k",
+          "k_text": "весть"
+        },
+        {
+          "start": 1568,
+          "end": 2240,
+          "status": "k-attested"
+        },
+        {
+          "start": 2241,
+          "end": 2252,
+          "status": "differs-from-k",
+          "k_text": "заподозрели"
+        },
+        {
+          "start": 2254,
+          "end": 2773,
+          "status": "k-attested"
+        },
+        {
+          "start": 2774,
+          "end": 2779,
+          "status": "differs-from-k",
+          "k_text": "касы"
+        },
+        {
+          "start": 2784,
+          "end": 3076,
+          "status": "k-attested"
+        },
+        {
+          "start": 3077,
+          "end": 3079,
+          "status": "differs-from-k",
+          "k_text": "с 69"
+        },
+        {
+          "start": 3080,
+          "end": 3081,
+          "status": "k-attested"
+        },
+        {
+          "start": 3083,
+          "end": 3088,
+          "status": "differs-from-k",
+          "k_text": "до"
+        },
+        {
+          "start": 3089,
+          "end": 4241,
+          "status": "k-attested"
+        },
+        {
+          "start": 4242,
+          "end": 4247,
+          "status": "differs-from-k",
+          "k_text": "самым"
+        },
+        {
+          "start": 4248,
+          "end": 6300,
+          "status": "k-attested"
+        },
+        {
+          "start": 6301,
+          "end": 6314,
+          "status": "differs-from-k",
+          "k_text": "антисемизма"
+        },
+        {
+          "start": 6316,
+          "end": 6497,
+          "status": "k-attested"
+        },
+        {
+          "start": 6498,
+          "end": 6503,
+          "status": "differs-from-k",
+          "k_text": "масу"
+        },
+        {
+          "start": 6505,
+          "end": 6539,
+          "status": "k-attested"
+        },
+        {
+          "start": 6540,
+          "end": 6553,
+          "status": "differs-from-k",
+          "k_text": "антисемизма"
+        },
+        {
+          "start": 6554,
+          "end": 6633,
+          "status": "k-attested"
+        },
+        {
+          "start": 6635,
+          "end": 6647,
+          "status": "differs-from-k",
+          "k_text": "Антисемизм"
+        },
+        {
+          "start": 6648,
+          "end": 6657,
+          "status": "k-attested"
+        },
+        {
+          "start": 6658,
+          "end": 6663,
+          "status": "differs-from-k",
+          "k_text": "масу"
+        },
+        {
+          "start": 6664,
+          "end": 6756,
+          "status": "k-attested"
+        },
+        {
+          "start": 6757,
+          "end": 6770,
+          "status": "differs-from-k",
+          "k_text": "антисемизма"
+        },
+        {
+          "start": 6771,
+          "end": 7753,
+          "status": "k-attested"
+        },
+        {
+          "start": 7754,
+          "end": 7766,
+          "status": "differs-from-k",
+          "k_text": "интелегенты"
+        },
+        {
+          "start": 7768,
+          "end": 8077,
+          "status": "k-attested"
+        },
+        {
+          "start": 8078,
+          "end": 8097,
+          "status": "differs-from-k",
+          "k_text": "бестериториального"
+        },
+        {
+          "start": 8098,
+          "end": 8289,
+          "status": "k-attested"
+        }
+      ],
+      "counts": {
+        "k-attested": 1161,
+        "supplemented-not-in-k": 0,
+        "differs-from-k": 15
+      },
+      "percent": {
+        "k-attested": 98.7,
+        "supplemented-not-in-k": 0.0,
+        "differs-from-k": 1.3
+      },
+      "basis": "token alignment against provisional K reconstructed from De Michelis apparatus",
+      "status": "provisional"
+    }
+  },
+  "k_only_boundaries": [
+    {
+      "position": 11,
+      "k_text": "заседаний всемирного союза Франмасонов и",
+      "status": "k-only-not-in-reconstruction"
+    },
+    {
+      "position": 17757,
+      "k_text": "мы приковали",
+      "status": "k-only-not-in-reconstruction"
+    },
+    {
+      "position": 83930,
+      "k_text": "2389",
+      "status": "k-only-not-in-reconstruction"
+    }
+  ]
+}

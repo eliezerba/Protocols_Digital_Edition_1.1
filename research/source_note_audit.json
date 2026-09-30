@@ -1,0 +1,44 @@
+{
+  "result": "2 historical asterisk notes identified in the De Michelis Appendix",
+  "notes": [
+    {
+      "marker": "(*)",
+      "marker_page_pdf": 206,
+      "note_body_page_pdf": 208,
+      "unit": "II"
+    },
+    {
+      "marker": "(**)",
+      "marker_page_pdf": 207,
+      "note_body_page_pdf": 209,
+      "unit": "II"
+    }
+  ],
+  "false_positive_ocr_stars": [
+    {
+      "page_pdf": 235,
+      "explanation": "superscript apparatus number 839 misread as *"
+    },
+    {
+      "page_pdf": 242,
+      "explanation": "superscript apparatus number 907 misread as *"
+    },
+    {
+      "page_pdf": 246,
+      "explanation": "layout/OCR artifact near apparatus 980"
+    },
+    {
+      "page_pdf": 281,
+      "explanation": "superscript apparatus number 1608 misread as *"
+    },
+    {
+      "page_pdf": 383,
+      "explanation": "layout/OCR artifact near apparatus 3298"
+    },
+    {
+      "page_pdf": 399,
+      "explanation": "hyphen/dash OCR artifact; no historical asterisk marker"
+    }
+  ],
+  "method": "Exhaustive literal-star search in PDF text layer across Appendix PDF pp. 189-401 followed by visual verification of every additional hit."
+}

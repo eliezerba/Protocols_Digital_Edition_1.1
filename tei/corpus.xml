@@ -49,4 +49,8 @@
   <xi:include href="witnesses/B.xml" />
 
     <xi:include href="analysis/ner.xml" parse="xml"/>
+  <xi:include href="analysis/source_notes.xml"/>
+  <xi:include href="analysis/reconstruction_provenance.xml"/>
+  <xi:include href="analysis/canonical_loci.xml"/>
+  <xi:include href="analysis/research_annotations.xml"/>
 </teiCorpus>

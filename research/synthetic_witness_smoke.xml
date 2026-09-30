@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SYNTH1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Synthetic ingestion witness</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Internal documentary witness transcription</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Imported from SYNTH1.txt</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p xml:id="SYNTH1.p0001">Первая строка синтетического свидетеля.
+Вторая строка того же абзаца.</p>
+      <p xml:id="SYNTH1.p0002">Новый абзац для проверки импорта.</p>
+    </body>
+  </text>
+</TEI>

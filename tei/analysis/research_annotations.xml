@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="research-annotations">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Research annotation layer</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Experimental internal research edition, version 2.2</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Local-first annotation layer for researcher-created hypotheses and thematic coding.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="research-tags">
+          <category xml:id="tag-economic-discourse" n="theme">
+            <catDesc>Economic discourse</catDesc>
+          </category>
+          <category xml:id="tag-gold-standard" n="theme">
+            <catDesc>Gold standard</catDesc>
+          </category>
+          <category xml:id="tag-money-currency" n="theme">
+            <catDesc>Money / currency</catDesc>
+          </category>
+          <category xml:id="tag-credit-debt" n="theme">
+            <catDesc>Credit / debt</catDesc>
+          </category>
+          <category xml:id="tag-banks-capital" n="theme">
+            <catDesc>Banks / capital</catDesc>
+          </category>
+          <category xml:id="tag-landowners-agriculture" n="theme">
+            <catDesc>Landowners / agriculture</catDesc>
+          </category>
+          <category xml:id="tag-state-government" n="theme">
+            <catDesc>State / government</catDesc>
+          </category>
+          <category xml:id="tag-autocracy-dictatorship" n="theme">
+            <catDesc>Autocracy / dictatorship</catDesc>
+          </category>
+          <category xml:id="tag-liberalism" n="theme">
+            <catDesc>Liberalism</catDesc>
+          </category>
+          <category xml:id="tag-revolution" n="theme">
+            <catDesc>Revolution</catDesc>
+          </category>
+          <category xml:id="tag-press-public-opinion" n="theme">
+            <catDesc>Press / public opinion</catDesc>
+          </category>
+          <category xml:id="tag-utopian" n="narrative">
+            <catDesc>Utopian register</catDesc>
+          </category>
+          <category xml:id="tag-dystopian" n="narrative">
+            <catDesc>Dystopian register</catDesc>
+          </category>
+          <category xml:id="tag-editorial-voice" n="textual">
+            <catDesc>Editorial voice</catDesc>
+          </category>
+          <category xml:id="tag-possible-sharapov" n="hypothesis">
+            <catDesc>Possible Sharapov parallel</catDesc>
+          </category>
+          <category xml:id="tag-possible-boutmy" n="hypothesis">
+            <catDesc>Possible Boutmy layer</catDesc>
+          </category>
+          <category xml:id="tag-rhetorical-jew" n="rhetorical">
+            <catDesc>“The Jew” as rhetorical figure</catDesc>
+          </category>
+          <category xml:id="tag-composition-layer" n="textual">
+            <catDesc>Possible compositional layer</catDesc>
+          </category>
+          <category xml:id="tag-uncertain" n="status">
+            <catDesc>Uncertain</catDesc>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <standOff>
+        <spanGrp type="research-annotations"/>
+      </standOff>
+    </body>
+  </text>
+</TEI>

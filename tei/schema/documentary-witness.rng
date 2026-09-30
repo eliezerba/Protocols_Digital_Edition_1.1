@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" ns="http://www.tei-c.org/ns/1.0">
+  <start><ref name="teiTree"/></start>
+  <define name="teiTree">
+    <element>
+      <anyName/>
+      <zeroOrMore>
+        <choice>
+          <attribute><anyName/></attribute>
+          <text/>
+          <ref name="teiTree"/>
+        </choice>
+      </zeroOrMore>
+    </element>
+  </define>
+</grammar>

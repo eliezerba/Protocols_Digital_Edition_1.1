@@ -1,0 +1,250 @@
+[
+  {
+    "unit_index": 0,
+    "unit_label": "Title / Front matter",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 1,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 1,
+    "unit_label": "I",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 17,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 2,
+    "unit_label": "II",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 14,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 3,
+    "unit_label": "III",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 27,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 4,
+    "unit_label": "IV",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 32,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 5,
+    "unit_label": "V",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 12,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 6,
+    "unit_label": "VI",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 5,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 7,
+    "unit_label": "VII",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 10,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 8,
+    "unit_label": "VIII",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 19,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 9,
+    "unit_label": "IX",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 28,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 10,
+    "unit_label": "X",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 29,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 11,
+    "unit_label": "XI",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 9,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 12,
+    "unit_label": "XII",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 21,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 13,
+    "unit_label": "XIII",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 3,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 14,
+    "unit_label": "XIV",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 2,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 15,
+    "unit_label": "XV",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 8,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 16,
+    "unit_label": "XVI",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 13,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 17,
+    "unit_label": "XVII",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 8,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 18,
+    "unit_label": "XVIII",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 11,
+    "major_k_omission_ranges": [
+      {
+        "note": 2692,
+        "page_pdf": 344,
+        "raw_clause": "К omitt.: Наш правитель usque ad: узнает сам (2709)"
+      }
+    ],
+    "status": "contains-major-supplementation",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 19,
+    "unit_label": "XIX",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 12,
+    "major_k_omission_ranges": [
+      {
+        "note": 2749,
+        "page_pdf": 349,
+        "raw_clause": "К omitt.: Поступая к этим вопросам usque ad: цифр"
+      },
+      {
+        "note": 2762,
+        "page_pdf": 350,
+        "raw_clause": "К omitt.: Наше Правление usque ad: в государстве."
+      },
+      {
+        "note": 2888,
+        "page_pdf": 358,
+        "raw_clause": "К omitt.: Реформы usque ad: для себя (2950)"
+      },
+      {
+        "note": 2991,
+        "page_pdf": 363,
+        "raw_clause": "К omitt.: Наши финансовые usque ad: герои и богатыри (3009)"
+      },
+      {
+        "note": 3016,
+        "page_pdf": 364,
+        "raw_clause": "К omitt.: и каждый раз usque ad: трудолюбие их народов"
+      }
+    ],
+    "status": "contains-major-supplementation",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 20,
+    "unit_label": "XX",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 9,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 21,
+    "unit_label": "XXI",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 7,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 22,
+    "unit_label": "XXII",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 4,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  },
+  {
+    "unit_index": 23,
+    "unit_label": "Translator’s Note",
+    "basis": "K-based reconstruction",
+    "k_apparatus_operations": 15,
+    "major_k_omission_ranges": [],
+    "status": "K-based-with-editorial-variants",
+    "precision": "unit-level provisional; span-level provenance planned"
+  }
+]

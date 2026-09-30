@@ -13,7 +13,7 @@
         <p>Internal scholarly research edition.</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Witness metadata and hypothetical textual stages described by De Michelis.</p>
+        <p>Witness metadata and hypothetical textual stages described by De Michelis. K, A1, A2, N and B are provisional continuous reconstructions derived from De Michelis’s apparatus; they are not documentary transcriptions of the historical witnesses.</p>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -31,39 +31,40 @@
     <revisionDesc>
       <change when="2026-09-27">Release 1.0: consolidated GitHub Pages research package.</change>
       <change when="2026-09-27">v5: all former scope-review cases adjudicated; nested apparatus syntax resolved; witness structures and paratext encoded; authority registers linked.</change>
+      <change when="2026-09-30">Release 2.0 provisional: witness reconstructions explicitly typed as provisional-derived; architecture prepared for later documentary replacement.</change>
     </revisionDesc>
   </teiHeader>
   <standOff>
     <listWit>
-      <witness xml:id="K">
+      <witness xml:id="K" type="provisional-derived">
         <abbr>K</abbr>
         <date>1903</date>
         <note type="segmentation">22</note>
         <note type="redaction">first redaction</note>
         <desc>Znamja / Kruševan; earliest full witness and De Michelis’s base witness.</desc>
       </witness>
-      <witness xml:id="A1">
+      <witness xml:id="A1" type="provisional-derived">
         <abbr>A1</abbr>
         <date>1905</date>
         <note type="segmentation">27</note>
         <note type="redaction">X</note>
         <desc>Anonymous St Petersburg edition; 27-part redaction.</desc>
       </witness>
-      <witness xml:id="B">
+      <witness xml:id="B" type="provisional-derived">
         <abbr>B</abbr>
         <date>1905–1906</date>
         <note type="segmentation">27</note>
         <note type="redaction">X</note>
         <desc>Butmi edition; 27-part redaction, related to A1 but independently modified.</desc>
       </witness>
-      <witness xml:id="A2">
+      <witness xml:id="A2" type="provisional-derived">
         <abbr>A2</abbr>
         <date>1905</date>
         <note type="segmentation">24</note>
         <note type="redaction">Y</note>
         <desc>Anonymous Moscow edition; 24-part redaction.</desc>
       </witness>
-      <witness xml:id="N">
+      <witness xml:id="N" type="provisional-derived">
         <abbr>N</abbr>
         <date>1905</date>
         <note type="segmentation">24</note>

@@ -1,53 +1,73 @@
-# Protocols — Digital Critical Edition 1.1
+# Protocols Digital Research Edition - 2.3 (provisional)
 
-Experimental internal research edition of the *Protocols of the Sages of Zion*, reconstructed from Cesare G. De Michelis's printed critical apparatus. This repository is designed to serve **both as the complete scholarly package and as the GitHub Pages site**: no separate website/research/TEI repositories are required.
+Version 2.3 is a **temporary De Michelis-based research environment built on the target architecture**. It is intended for internal scholarly use while documentary witness scans/transcriptions are prepared.
 
-## Deploy to GitHub Pages
+## What is authoritative in this release
 
-1. Create a repository and upload **the contents of this folder to the repository root**.
-2. In GitHub: **Settings → Pages → Build and deployment → Deploy from a branch**.
-3. Select `main` and `/ (root)`.
-4. The site opens with the project's client-side internal-access gate.
+- Cesare G. De Michelis's reconstructed Russian text is the current **reference reconstruction**.
+- De Michelis's numbered critical apparatus is preserved.
+- Historical asterisk source notes are being separated from the running text as their own annotation layer.
+- K, A1, A2, N and B are **provisional continuous reconstructions derived from De Michelis's apparatus**. They are not documentary transcriptions and are expected to be replaced later.
 
-No build step, npm install, server, or GitHub Action is required.
+## Research functions
 
-## Repository structure
+- close reading with non-parallel witness structure;
+- configurable synopsis (choose organizing structure, visible witnesses and order);
+- textual difference highlighting;
+- search;
+- entity index and distant-reading views;
+- TEI downloads;
+- interactive De Michelis transmission model;
+- contextual Guide;
+- source-note inspector for historical `* / **` notes;
+- provenance/status labels distinguishing reconstruction from provisional derived witnesses.
 
-- `index.html` — GitHub Pages entry point.
-- `assets/` — the complete static research interface and its compact generated dataset.
-- `tei/` — canonical TEI P5 corpus: reconstructed edition, five witness texts, apparatus, witness metadata, relations, authority files, NER stand-off layer, ODD and Schematron.
-- `downloads/Protocols_TEI_1.1.zip` — one-click TEI package used by the web interface.
-- `research/` — compact audit trail: editorial decisions, source anomalies, build summary, and structural map.
-- `docs/` — editorial/data-model/design/NER documentation.
-- `tools/build_history/` — historical pipeline stages retained for provenance; they are **not required for deployment** and still reflect earlier staging-directory names.
-- `.nojekyll` — ensures GitHub Pages serves the repository as a plain static site.
-- `VERSION` — release number.
+## Architecture
 
-## What is deliberately not duplicated
+Read **`docs/SYSTEM_ARCHITECTURE_v0.1.md`** first. It defines the target model: Work / Witness / Reconstruction / Locus / Reading / Note / Alignment / Entity / Concept / Hypothesis, with stable identifiers and replaceable witness layers.
 
-Earlier working packages contained both a large JavaScript data bundle and parallel JSON copies of the same generated data, plus a second copy of the TEI inside a `site/` directory. Release 1.0 removed those duplicates. Release 1.1 adds a contextual in-site guide without changing the scholarly data layer. The browser uses `assets/data.js`; the scholarly source layer is `tei/`.
+`docs/architecture-manifest.json` maps the current 2.1 files to those target roles.
 
-The original De Michelis PDF, page renders, OCR scratch files, temporary extraction files, and other working artifacts are not included. They are not required to run or inspect the edition and would make the Git repository unnecessarily large.
+## TEI
 
-## Scholarly status
+The TEI package is in `tei/` and can also be downloaded from the interface. New in 2.1: `tei/analysis/source_notes.xml`.
 
-This is an experimental internal research version. The continuous witness texts are reverse reconstructions from De Michelis's apparatus rather than fresh diplomatic transcriptions of the historical printed witnesses. The audit trail is preserved in `research/editorial_decisions.csv`. Two source anomalies remain explicitly documented (notes 380 and 2502).
+## Known limitations
 
-Witness structures are retained independently:
+- The witness texts remain apparatus-derived scaffolding.
+- The K provenance indicator is currently unit-level for explicitly long omissions (`usque ad`); span-level provenance is planned.
+- The current transmission graph is **De Michelis's model**, not the final project stemma.
+- Source notes have been extracted where the paired asterisk-note block is unambiguous; documentary witnesses will provide final verification.
+- De Michelis apparatus anomalies 380 and 2502 remain unresolved.
 
-- K: 22 protocols
-- A1: 27 protocols
-- B: 27 protocols
-- A2: 24 protocols
-- N: 24 protocols
+## GitHub Pages
 
-The interface supports witness reading, structure-aware synopsis, variant highlighting, textual-tradition mapping, search, named-entity indexes, entity atlas/geography/network views, protocol anatomy, and TEI downloads.
+Upload the contents of this folder to the repository root and enable **Settings -> Pages -> Deploy from a branch -> main -> /(root)**. No build step is required.
 
-## Access gate
-
-The GitHub Pages version uses a **client-side password gate** suitable for an internal demonstration. It is not server-side authentication: static files remain technically retrievable by someone who knows their direct URLs. For genuinely confidential deployment, use hosting with server-side authentication.
+The site remains an internal experimental interface and retains the password gate configured in the project.
 
 
-## 1.1 interface guide
+## 2.1 corrections
+- Exhaustive separation of historical `(*)` / `(**)` source notes from Protocol II.
+- Printed-heading-based protocol segmentation correction.
+- Span-level provisional provenance of De Michelis against apparatus-derived K.
+See `docs/release_notes_2.1.md`.
 
-A persistent circular **i / Guide** control in the top navigation opens a context-sensitive explanation of the current view and a map of the complete research environment. It is intended to orient first-time scholarly users without interrupting normal reading.
+
+## Version 2.2 additions
+
+- **3,603 canonical loci** independent of witness protocol numbering (`research/canonical_loci.json`, `tei/analysis/canonical_loci.xml`).
+- Documentary witness TEI template + Relax NG validator (`tei/templates/`, `tei/schema/documentary-witness.rng`).
+- Research annotation workspace and selection-based annotation from Close Reading.
+- Research annotations remain local to the browser until exported as JSON/TEI.
+- Architecture document updated to `docs/SYSTEM_ARCHITECTURE_v0.2.md`.
+
+
+## Version 2.3 additions
+
+- Detailed contextual Help catalogue inside the interface, including explicit status/limitations for provisional or not-yet-final functions.
+- Mandatory cumulative `docs/PROJECT_HISTORY_AND_DECISIONS.md` — update this file in every release.
+- `docs/WITNESS_INGESTION_CONTRACT.md` for externally transcribed witnesses (including eScriptorium PAGE/ALTO workflows).
+- Conservative PAGE XML / ALTO / TXT / TEI import adapters.
+- Synthetic ingestion smoke test and canonical-locus/ID consistency checker.
+- **No documentary witnesses were ingested in 2.3.**

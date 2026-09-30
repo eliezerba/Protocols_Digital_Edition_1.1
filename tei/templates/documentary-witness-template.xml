@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/documentary-witness.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wit-REPLACE">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>Documentary transcription: REPLACE</title><respStmt><resp>Transcription</resp><name>REPLACE</name></respStmt></titleStmt>
+      <publicationStmt><p>Internal research edition. Documentary transcription.</p></publicationStmt>
+      <sourceDesc><bibl><title>REPLACE SOURCE TITLE</title><date when="1905">1905</date><idno type="shelfmark">REPLACE</idno></bibl></sourceDesc>
+    </fileDesc>
+    <encodingDesc><p>Diplomatic transcription. Original page and line boundaries are retained with pb/lb. Normalization, where needed, uses choice/orig/reg without replacing the diplomatic reading.</p></encodingDesc>
+    <revisionDesc><change when="2026-09-30">Template created for documentary witness ingestion.</change></revisionDesc>
+  </teiHeader>
+  <text>
+    <front><div type="front" xml:id="wit-REPLACE-front"><pb n="1"/><ab>REPLACE FRONT MATTER</ab></div></front>
+    <body>
+      <div type="protocol" n="1" xml:id="wit-REPLACE-p1">
+        <head>Protocol I</head>
+        <pb n="2" facs="#surface-p2"/>
+        <p xml:id="wit-REPLACE-p1-par1"><anchor xml:id="wit-REPLACE-L0001" type="locus" corresp="../analysis/canonical_loci.xml#L0001"/>REPLACE DIPLOMATIC TEXT<lb n="1"/></p>
+        <note type="source" xml:id="wit-REPLACE-note-1" place="bottom">REPLACE HISTORICAL SOURCE NOTE</note>
+      </div>
+    </body>
+  </text>
+</TEI>

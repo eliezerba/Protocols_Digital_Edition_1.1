@@ -1,0 +1,13 @@
+{
+  "id": "SYNTH1",
+  "siglum": "SYNTH1",
+  "title": "Synthetic ingestion witness",
+  "date": "test only",
+  "place": "",
+  "edition_or_publication": "",
+  "source_repository_or_url": "",
+  "language": "ru",
+  "transcription_status": "synthetic smoke test",
+  "input_format": "txt",
+  "source_file": "SYNTH1.txt"
+}
